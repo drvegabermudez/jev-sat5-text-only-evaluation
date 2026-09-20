@@ -1,0 +1,639 @@
+{
+  "rw_m1_q01": {
+    "choice": "A",
+    "answer": "Evidence",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q02": {
+    "choice": "B",
+    "answer": "fragile",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q03": {
+    "choice": "B",
+    "answer": "impending",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q04": {
+    "choice": "D",
+    "answer": "exploited",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q05": {
+    "choice": "B",
+    "answer": "ameliorate",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q06": {
+    "choice": "D",
+    "answer": "To explain why the narrator thinks she might make the basketball team",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q07": {
+    "choice": "B",
+    "answer": "To explain that Spanish-language newspapers thrived in Texas and especially in El Paso during the late 1800s",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q08": {
+    "choice": "C",
+    "answer": "To indicate why astrobiologists choose to conduct research in the Atacama Desert",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q09": {
+    "choice": "B",
+    "answer": "It explains why it is challenging to influence transit ridership solely by altering characteristics of a transit system.",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q10": {
+    "choice": "B",
+    "answer": "It introduces an unresolved scientific question, presents a research team’s hypothesis pertaining to that question, and then describes an observation made by the team that conflicts with that hypothesis.",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q11": {
+    "choice": "D",
+    "answer": "All the marsquakes started from the same location on the planet.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q12": {
+    "choice": "A",
+    "answer": "Maya civilization acquired the use of zero from the Olmec civilization.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q13": {
+    "choice": "D",
+    "answer": "“When [the banker] got home he lay on his bed, but his tears and emotion kept him for hours from sleeping.”",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q15": {
+    "choice": "C",
+    "answer": "“I’m really getting quite fond of the big room, all but that horrid [wall]paper.”",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q17": {
+    "choice": "A",
+    "answer": "it can’t be concluded that the impact that made the crater was connected to the beginning of the Younger Dryas.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q18": {
+    "choice": "B",
+    "answer": "has been preserved in certain mammal species because it benefits their immune systems.",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q19": {
+    "choice": "A",
+    "answer": "the Aztecs would have disputed the idea that the morality of an individual’s actions can be assessed by appealing to standards of behavior that are independent of the individual’s social circumstances.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q20": {
+    "choice": "C",
+    "answer": "this",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q21": {
+    "choice": "A",
+    "answer": "used",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q22": {
+    "choice": "D",
+    "answer": "ensures",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q23": {
+    "choice": "B",
+    "answer": "hands between the two antennas,",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q24": {
+    "choice": "D",
+    "answer": "represent",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q25": {
+    "choice": "B",
+    "answer": "artist",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q26": {
+    "choice": "B",
+    "answer": "described, from hair to grass to sculptures—",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q27": {
+    "choice": "D",
+    "answer": "As a result,",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q28": {
+    "choice": "D",
+    "answer": "though,",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q29": {
+    "choice": "B",
+    "answer": "Conversely,",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q30": {
+    "choice": "D",
+    "answer": "Hence,",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q31": {
+    "choice": "A",
+    "answer": "The real author of Adam Bede was Mary Ann Evans, who published the novel using the pseudonym George Eliot.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q32": {
+    "choice": "C",
+    "answer": "When the molten salt in a freeze-thaw battery solidifies at room temperature, energy stops flowing and can be stored in the battery.",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m1_q33": {
+    "choice": "D",
+    "answer": "Likely to soon become endangered, the California red-legged frog is classified as threatened by the FWS.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q01": {
+    "choice": "C",
+    "answer": "Stretching toward",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q02": {
+    "choice": "D",
+    "answer": "obtain",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q03": {
+    "choice": "A",
+    "answer": "reduced",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q04": {
+    "choice": "A",
+    "answer": "a tenuous",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q05": {
+    "choice": "C",
+    "answer": "defend",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q06": {
+    "choice": "C",
+    "answer": "It emphasizes that Harris always boasts about his own constitution when speaking of a previous boat trip.",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q07": {
+    "choice": "B",
+    "answer": "It identifies a conflict between research findings and recent events that the text goes on to suggest is a consequence of a complicating factor in the data used to generate those findings.",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q08": {
+    "choice": "A",
+    "answer": "By asserting that language plays a more important role in graphic novels than the author of Text 1 recognizes",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q09": {
+    "choice": "A",
+    "answer": "Lutie is observing the appearance of the street at a particular time of day and the events occurring on it.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q10": {
+    "choice": "D",
+    "answer": "It is unclear whether Bosco Verticale can support the plant life included in its design.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q11": {
+    "choice": "A",
+    "answer": "Literary theorist Mikhail Bakhtin argued that there are important characteristics of narratives that are not fully encompassed by two concepts that other theorists have used to analyze narratives.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q13": {
+    "choice": "D",
+    "answer": "“Through interbreeding, transgenic fish might introduce the trait of fluorescence into wild fish populations, making those populations more vulnerable to predators.”",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q15": {
+    "choice": "D",
+    "answer": "“Reading [poetry], however, with a perfect contempt for it, one discovers that there is in / it after all, a place for the genuine.”",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q17": {
+    "choice": "A",
+    "answer": "the English dialects spoken in the Upland South acquired their emphasis on the “r” sound from dialects spoken in Scotland.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q18": {
+    "choice": "A",
+    "answer": "published",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q19": {
+    "choice": "B",
+    "answer": "instrument",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q20": {
+    "choice": "A",
+    "answer": "them",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q21": {
+    "choice": "C",
+    "answer": "sisters,",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q22": {
+    "choice": "B",
+    "answer": "dislodge, in part due to its sheer size:",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q23": {
+    "choice": "A",
+    "answer": "character Tamatoa the crab",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q24": {
+    "choice": "C",
+    "answer": "underlie",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q25": {
+    "choice": "C",
+    "answer": "Serra, intending",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q26": {
+    "choice": "B",
+    "answer": "Next,",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q27": {
+    "choice": "C",
+    "answer": "Later,",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q28": {
+    "choice": "D",
+    "answer": "For this reason,",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q29": {
+    "choice": "D",
+    "answer": "Accordingly,",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q30": {
+    "choice": "A",
+    "answer": "In 1037 CE, al-Biruni published his theory that a large landmass existed west of Europe and east of Asia.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q31": {
+    "choice": "D",
+    "answer": "With a mass of 2.063 solar masses, Sirius A is more massive than the Sun.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q32": {
+    "choice": "D",
+    "answer": "In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "rw_m2_q33": {
+    "choice": "A",
+    "answer": "P waves and S waves both travel beneath Earth’s surface, causing the ground to move.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q02": {
+    "choice": "B",
+    "answer": "130",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q04": {
+    "choice": "B",
+    "answer": "(3, 6)",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q09": {
+    "choice": "B",
+    "answer": "770",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q10": {
+    "choice": "B",
+    "answer": "320",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q11": {
+    "choice": "C",
+    "answer": "−6",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q12": {
+    "choice": "D",
+    "answer": "0.6 ≤ s ≤ 1.8",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q15": {
+    "choice": "C",
+    "answer": "726π",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q17": {
+    "choice": "B",
+    "answer": "26x",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q18": {
+    "choice": "D",
+    "answer": "Kaylani purchased 6 yards more fabric than she used to make the suits.",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q19": {
+    "choice": "A",
+    "answer": "−√3",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q22": {
+    "choice": "B",
+    "answer": "−14",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q23": {
+    "choice": "D",
+    "answer": "V(x) = 9x(x − 7)",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q24": {
+    "choice": "D",
+    "answer": "Neither I nor II",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q25": {
+    "choice": "A",
+    "answer": "12",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m1_q26": {
+    "choice": "A",
+    "answer": "−6",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q01": {
+    "choice": "B",
+    "answer": "88",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q03": {
+    "choice": "B",
+    "answer": "37",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q04": {
+    "choice": "B",
+    "answer": "2xy(8x²y + 7)",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q05": {
+    "choice": "D",
+    "answer": "c = 25x + 11",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q08": {
+    "choice": "D",
+    "answer": "y = 4x + 6",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q10": {
+    "choice": "A",
+    "answer": "The object traveling at 34 meters per second has a kinetic energy of 5,202 joules.",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q12": {
+    "choice": "D",
+    "answer": "98",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q16": {
+    "choice": "A",
+    "answer": "116",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q17": {
+    "choice": "B",
+    "answer": "7x³ + 10",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q18": {
+    "choice": "B",
+    "answer": "48",
+    "official_answer": "B",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q22": {
+    "choice": "D",
+    "answer": "1,944",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q23": {
+    "choice": "D",
+    "answer": "42a(k² + 1)/k",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q24": {
+    "choice": "D",
+    "answer": "5x² − 14x + 49 = 0",
+    "official_answer": "D",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q25": {
+    "choice": "A",
+    "answer": "8",
+    "official_answer": "A",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  },
+  "math_m2_q26": {
+    "choice": "C",
+    "answer": "(10, 2)",
+    "official_answer": "C",
+    "original_format": "multiple_choice",
+    "added_choices": false
+  }
+}

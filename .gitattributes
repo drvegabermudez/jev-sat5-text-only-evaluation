@@ -1,0 +1,5 @@
+# Preserve archived JSON and CSV bytes so hashes are stable across checkouts.
+*.json -text
+*.csv -text whitespace=cr-at-eol
+*.md text eol=lf
+*.py text eol=lf

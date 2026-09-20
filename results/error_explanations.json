@@ -1,0 +1,12 @@
+{
+  "rw_m1_q25": "No punctuation belongs between the identifying description \"French portrait artist\" and the name Marie-Denise Villers.",
+  "rw_m1_q30": "The mistaken assumption follows from the shell appearing external. \"Hence,\" introduces that consequence; \"However,\" would incorrectly signal a contrast at that point.",
+  "rw_m2_q21": "The comma after \"sisters\" closes the descriptive phrase that begins after the novel title.",
+  "rw_m2_q22": "The colon introduces an explanation of the vessel's size. Choice C joins two independent clauses with only a comma.",
+  "rw_m2_q25": "\"Intending ... environment\" modifies Serra and is enclosed by commas; \"assembles\" is the main verb.",
+  "math_m1_q11": "4(x - 7) = -24, so x - 7 = -6.",
+  "math_m1_q19": "Tangent has period pi. Subtracting 30*pi leaves 2*pi/3, whose tangent is -sqrt(3).",
+  "math_m1_q26": "f(x) = a(x - 7)(x + 3) = a*x^2 - 4a*x - 21a, so a + b = -3a. Taking a = 2 gives -6.",
+  "math_m2_q18": "sqrt(2x) = 4, so 2x = 16, x = 8, and 6x = 48.",
+  "math_m2_q26": "The radius has slope -5/6, so the tangent has slope 6/5. Its equation is y + 4 = (6/5)(x - 5), which contains (10, 2)."
+}

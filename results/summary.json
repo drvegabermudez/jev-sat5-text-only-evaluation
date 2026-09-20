@@ -1,0 +1,81 @@
+{
+  "dataset_version": "sat5-text-only-91",
+  "model": "jev-1.13.0",
+  "request_id": "playground_1eb7e826737bce1415582b8cb649e90c78a",
+  "overall": {
+    "correct": 81,
+    "total": 91,
+    "accuracy_percent": 89.011
+  },
+  "sections": {
+    "Reading and Writing": {
+      "correct": 56,
+      "total": 61,
+      "accuracy_percent": 91.8033
+    },
+    "Math": {
+      "correct": 25,
+      "total": 30,
+      "accuracy_percent": 83.3333
+    }
+  },
+  "modules": {
+    "rw_m1": {
+      "correct": 29,
+      "total": 31,
+      "accuracy_percent": 93.5484
+    },
+    "rw_m2": {
+      "correct": 27,
+      "total": 30,
+      "accuracy_percent": 90.0
+    },
+    "math_m1": {
+      "correct": 12,
+      "total": 15,
+      "accuracy_percent": 80.0
+    },
+    "math_m2": {
+      "correct": 13,
+      "total": 15,
+      "accuracy_percent": 86.6667
+    }
+  },
+  "wrong_question_ids": [
+    "rw_m1_q25",
+    "rw_m1_q30",
+    "rw_m2_q21",
+    "rw_m2_q22",
+    "rw_m2_q25",
+    "math_m1_q11",
+    "math_m1_q19",
+    "math_m1_q26",
+    "math_m2_q18",
+    "math_m2_q26"
+  ],
+  "validation": {
+    "all_91_expected_answers_present": true,
+    "all_choices_valid": true,
+    "all_probability_sums_equal_one": true,
+    "all_choices_are_probability_maxima": true,
+    "all_confidences_in_range": true,
+    "all_keys_match_official_original_choices": true,
+    "prepared_inputs_and_response_hashes_verified": true
+  },
+  "input_sha256": {
+    "state.json": "cbd72a2059edc9474eb32b63a0652126379aaeaf24609280c471793981e86368",
+    "questions.json": "5003c2ab3150afb202f8a4d0c331d3bc1f82279fad21902c327bdbae410c66f5"
+  },
+  "response_sha256": "750243f0e5dda1ed3e36449787eae08225d8bea058558948223f5a0fce5dffa7",
+  "reported_usage": {
+    "input_tokens": 17637,
+    "output_tokens": 4280
+  },
+  "reported_evaluation_time_ms": 249.01150100049563,
+  "limitations": [
+    "The supplied response export does not embed the submitted request or sampling settings.",
+    "One evaluated response export; not an official SAT scaled score.",
+    "Service-reported evaluation time is not independently measured end-to-end latency.",
+    "Reported confidence and option probabilities are separate outputs and are not established to be calibrated by this evaluation."
+  ]
+}

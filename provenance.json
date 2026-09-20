@@ -1,0 +1,52 @@
+{
+  "dataset_version": "sat5-text-only-91",
+  "source_test": {
+    "title": "The SAT Practice Test #5",
+    "publisher": "College Board",
+    "copyright_year": 2024,
+    "form": "Nonadaptive paper form",
+    "cover_identifiers": [
+      "WX4P0001",
+      "6VSL01"
+    ],
+    "url": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-5-digital.pdf",
+    "pages": 56,
+    "sha256": "d1f03f5f4d09208180e69c4f9010f38ae430600d45c6e4badcd3b0fb886c2bd3"
+  },
+  "source_scoring_guide": {
+    "url": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-5-digital.pdf",
+    "answer_key_page": 4,
+    "sha256": "9b145060e5ecae61b02a8671971a56efa3ee6742f7121545a33084816e395306"
+  },
+  "evaluation": {
+    "status": "graded",
+    "model": "jev-1.13.0",
+    "response_file": "responses.json",
+    "request_id": "playground_1eb7e826737bce1415582b8cb649e90c78a",
+    "score": {
+      "correct": 81,
+      "total": 91,
+      "accuracy_percent": 89.011
+    },
+    "input_sha256": {
+      "state.json": "cbd72a2059edc9474eb32b63a0652126379aaeaf24609280c471793981e86368",
+      "questions.json": "5003c2ab3150afb202f8a4d0c331d3bc1f82279fad21902c327bdbae410c66f5"
+    },
+    "submission_evidence": "User-supplied response export for the 91-question dataset; all question IDs match.",
+    "request_capture_available": false,
+    "verification_limit": "The export does not include the original service request. Exact submitted state, question text, other context, and sampling settings cannot be independently verified from the export.",
+    "execution_timestamp": "Not included in the response export.",
+    "response_preservation": "Byte-for-byte copy of the supplied JSON export.",
+    "evaluation_time_semantics": "The evaluation_time_ms field is service-reported, not an independently measured end-to-end latency."
+  },
+  "sha256": {
+    "state.json": "cbd72a2059edc9474eb32b63a0652126379aaeaf24609280c471793981e86368",
+    "questions.json": "5003c2ab3150afb202f8a4d0c331d3bc1f82279fad21902c327bdbae410c66f5",
+    "answer_key.json": "7c63bb67760c043a35dd8949ed534de97c159818019e6f97be0413e6254f1686",
+    "official_answer_key.json": "1ce73e65e2e4cb4ea7b35c2677093fcad2b37604e95363a03569ced841127847",
+    "question_manifest.json": "fc06604df149e0c6f6d61244efa3dbda1b239d721018c08da3a91f6934c76d48",
+    "omitted_questions.csv": "4cc484e443372fc6a8ed5f5446cd8ae25a7ad436f614d61af867b12050b52cb2",
+    "responses.json": "750243f0e5dda1ed3e36449787eae08225d8bea058558948223f5a0fce5dffa7",
+    "results/error_explanations.json": "215dd7f82599e799f0e4697b6b744eac16e2581dc4d9427d544a339065c97b35"
+  }
+}

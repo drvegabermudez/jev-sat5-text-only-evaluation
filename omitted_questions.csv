@@ -1,0 +1,30 @@
+id,section,module,number,pdf_page,printed_page,category,reason
+rw_m1_q14,rw,1,14,9,7,source_visual_or_table,Source question or answer choices require a table.
+rw_m1_q16,rw,1,16,10,8,source_visual_or_table,Source question or answer choices require a graph or diagram.
+rw_m2_q12,rw,2,12,23,21,source_visual_or_table,Source question or answer choices require a graph or diagram.
+rw_m2_q14,rw,2,14,24,22,source_visual_or_table,Source question or answer choices require a graph or diagram.
+rw_m2_q16,rw,2,16,26,24,source_visual_or_table,Source question or answer choices require a table.
+math_m1_q01,math,1,1,34,32,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q03,math,1,3,34,32,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q05,math,1,5,35,33,source_visual_or_table,Source question or answer choices require a table.
+math_m1_q06,math,1,6,35,33,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q07,math,1,7,35,33,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m1_q08,math,1,8,36,34,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q13,math,1,13,37,35,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m1_q14,math,1,14,37,35,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m1_q16,math,1,16,38,36,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q20,math,1,20,39,37,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m1_q21,math,1,21,40,38,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m1_q27,math,1,27,41,39,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q02,math,2,2,44,42,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m2_q06,math,2,6,45,43,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q07,math,2,7,45,43,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q09,math,2,9,45,43,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m2_q11,math,2,11,46,44,source_visual_or_table,Source question or answer choices require a graph or diagram.
+math_m2_q13,math,2,13,47,45,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q14,math,2,14,47,45,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q15,math,2,15,47,45,source_visual_or_table,Source question or answer choices require a table.
+math_m2_q19,math,2,19,48,46,source_visual_or_table,Source question or answer choices require a table.
+math_m2_q20,math,2,20,48,46,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q21,math,2,21,49,47,original_numerical_response,Original question requires a numerical response and has no A–D choices.
+math_m2_q27,math,2,27,50,48,original_numerical_response,Original question requires a numerical response and has no A–D choices.
