@@ -50,6 +50,10 @@ def grade(questions, key, manifest, response):
 
 
 def summarize(rows, response, provenance):
+    timing_context = provenance['evaluation']['timing_context']
+    server_time_ms = response['evaluation_time_ms']
+    network_round_trip_ms = timing_context['network_round_trip_ms']
+    require(all(type(value) in (int, float) and math.isfinite(value) and value >= 0 for value in (server_time_ms, network_round_trip_ms)), 'Invalid timing value')
     return {
         'dataset_version': provenance['dataset_version'],
         'model': response['model'],
@@ -71,6 +75,12 @@ def summarize(rows, response, provenance):
         'response_sha256': provenance['sha256']['responses.json'],
         'reported_usage': response.get('usage'),
         'reported_evaluation_time_ms': response.get('evaluation_time_ms'),
+        'timing': {
+            'server_time_ms': server_time_ms,
+            'server_time_source': provenance['evaluation']['evaluation_time_semantics'],
+            **timing_context,
+            'calculated_combined_time_ms': server_time_ms + network_round_trip_ms,
+        },
         'limitations': [
             'The supplied response export does not embed the submitted request or sampling settings.',
             'One evaluated response export; not an official SAT scaled score.',
@@ -110,8 +120,14 @@ def artifacts(rows, summary, explanations):
     report.extend(['', '## Explanations', ''])
     for row in errors:
         report.append(f"- **`{row['question_id']}`:** {explanations[row['question_id']]}")
-    report.extend(['', '## Reported usage', '',
-        f"The service reports {summary['reported_usage']['input_tokens']:,} input tokens, {summary['reported_usage']['output_tokens']:,} output tokens, and `evaluation_time_ms = {summary['reported_evaluation_time_ms']}`. The timing's scope is not established by the export and it is not an independently measured end-to-end latency.", '',
+    timing = summary['timing']
+    report.extend(['', '## Reported usage and timing', '',
+        f"The service reports {summary['reported_usage']['input_tokens']:,} input tokens and {summary['reported_usage']['output_tokens']:,} output tokens.", '',
+        '| Timing | Value |', '|---|---:|',
+        f"| Server time | {timing['server_time_ms']:.0f} ms |",
+        f"| Network round trip to {timing['network_region']} | {timing['network_round_trip_ms']:.0f} ms |",
+        f"| Calculated combined time | ≈ {timing['calculated_combined_time_ms']:.0f} ms |", '',
+        f"Server time is the exported `evaluation_time_ms = {summary['reported_evaluation_time_ms']}`, with its meaning confirmed by the user. Network time is user-reported. The combined time adds these two values; it is not a separate end-to-end measurement.", '',
         '## Provenance and reproduction', '',
         'The supplied export is preserved byte-for-byte in [responses.json](responses.json). Its question IDs exactly match the dataset. Input and response hashes are recorded in [provenance.json](provenance.json). The export does not include the original service request or sampling settings.', '',
         'Run `python3 evaluate.py --check` to reproduce and verify the committed results. See [all 91 grading records](results/per_question.csv), the [machine-readable summary](results/summary.json), and the [model evaluation card](MODEL_CARD.md). This is raw subset accuracy, not an official SAT scaled score.', '',

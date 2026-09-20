@@ -37,7 +37,13 @@
     "verification_limit": "The export does not include the original service request. Exact submitted state, question text, other context, and sampling settings cannot be independently verified from the export.",
     "execution_timestamp": "Not included in the response export.",
     "response_preservation": "Byte-for-byte copy of the supplied JSON export.",
-    "evaluation_time_semantics": "The evaluation_time_ms field is service-reported, not an independently measured end-to-end latency."
+    "evaluation_time_semantics": "The evaluation_time_ms field reports server time, as confirmed by the user.",
+    "timing_context": {
+      "network_round_trip_ms": 125,
+      "network_region": "us-west",
+      "network_source": "User-reported network round-trip time.",
+      "combined_time_method": "Server time plus network round-trip time; a calculated total, not a separate end-to-end measurement."
+    }
   },
   "sha256": {
     "state.json": "cbd72a2059edc9474eb32b63a0652126379aaeaf24609280c471793981e86368",

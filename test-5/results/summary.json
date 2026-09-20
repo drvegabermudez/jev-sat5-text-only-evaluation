@@ -72,6 +72,15 @@
     "output_tokens": 4280
   },
   "reported_evaluation_time_ms": 249.01150100049563,
+  "timing": {
+    "server_time_ms": 249.01150100049563,
+    "server_time_source": "The evaluation_time_ms field reports server time, as confirmed by the user.",
+    "network_round_trip_ms": 125,
+    "network_region": "us-west",
+    "network_source": "User-reported network round-trip time.",
+    "combined_time_method": "Server time plus network round-trip time; a calculated total, not a separate end-to-end measurement.",
+    "calculated_combined_time_ms": 374.0115010004956
+  },
   "limitations": [
     "The supplied response export does not embed the submitted request or sampling settings.",
     "One evaluated response export; not an official SAT scaled score.",

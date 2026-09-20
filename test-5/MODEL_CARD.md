@@ -38,15 +38,17 @@ Inputs are [state.json](state.json) and [questions.json](questions.json). The su
 
 The ten incorrect answers and explanations are listed in [RESULTS.md](RESULTS.md). [Per-question grading](results/per_question.csv) includes every response, correct answer, confidence, and option probability.
 
-## Reported usage
+## Reported usage and timing
 
-| Export field | Value |
+| Metric | Value |
 |---|---:|
 | Input tokens | 17,637 |
 | Output tokens | 4,280 |
-| `evaluation_time_ms` | 249.01150100049563 |
+| Server time | 249 ms |
+| Network round trip to us-west | 125 ms |
+| Calculated combined time | ≈ 374 ms |
 
-These are service-reported values. The timing field is not an independently measured end-to-end latency; its scope and the serving hardware are unspecified.
+Token counts and server time come from the service export (`evaluation_time_ms = 249.01150100049563`). The user confirmed that this field represents server time and reported the network round-trip time. The combined time adds these two values; it is not a separate end-to-end measurement. Serving hardware is unspecified.
 
 ## Scope and limitations
 

@@ -50,9 +50,17 @@ Confidence is the reported `confidence` field, distinct from the probability ass
 - **`math_m2_q18`:** sqrt(2x) = 4, so 2x = 16, x = 8, and 6x = 48.
 - **`math_m2_q26`:** The radius has slope -5/6, so the tangent has slope 6/5. Its equation is y + 4 = (6/5)(x - 5), which contains (10, 2).
 
-## Reported usage
+## Reported usage and timing
 
-The service reports 17,637 input tokens, 4,280 output tokens, and `evaluation_time_ms = 249.01150100049563`. The timing's scope is not established by the export and it is not an independently measured end-to-end latency.
+The service reports 17,637 input tokens and 4,280 output tokens.
+
+| Timing | Value |
+|---|---:|
+| Server time | 249 ms |
+| Network round trip to us-west | 125 ms |
+| Calculated combined time | ≈ 374 ms |
+
+Server time is the exported `evaluation_time_ms = 249.01150100049563`, with its meaning confirmed by the user. Network time is user-reported. The combined time adds these two values; it is not a separate end-to-end measurement.
 
 ## Provenance and reproduction
 
