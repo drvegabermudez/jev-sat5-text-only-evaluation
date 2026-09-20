@@ -11,16 +11,16 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 | SAT Practice Test 5 | 91 | Jev 1.13.0: **81/91 (89.0%)** | [Test overview](test-5/README.md) · [Results](test-5/RESULTS.md) · [Model card](test-5/MODEL_CARD.md) |
 | SAT Practice Test 6 | 88 | Jev 1.13.0: **81/88 (92.0%)** | [Test overview](test-6/README.md) · [Results](test-6/RESULTS.md) · [Model card](test-6/MODEL_CARD.md) |
 | SAT Practice Test 7 | 92 | Jev 1.13.0: **84/92 (91.3%)** | [Test overview](test-7/README.md) · [Results](test-7/RESULTS.md) · [Model card](test-7/MODEL_CARD.md) |
-| SAT Practice Test 8 | 91 | Ready to run | [Test overview](test-8/README.md) · [Questions](test-8/questions.json) · [State](test-8/state.json) |
+| SAT Practice Test 8 | 91 | Jev 1.13.0: **83/91 (91.2%)** | [Test overview](test-8/README.md) · [Results](test-8/RESULTS.md) · [Model card](test-8/MODEL_CARD.md) |
 | SAT Practice Test 9 | 93 | Ready to run | [Test overview](test-9/README.md) · [Questions](test-9/questions.json) · [State](test-9/state.json) |
 | SAT Practice Test 10 | 91 | Ready to run | [Test overview](test-10/README.md) · [Questions](test-10/questions.json) · [State](test-10/state.json) |
 | SAT Practice Test 11 | 87 | Ready to run | [Test overview](test-11/README.md) · [Questions](test-11/questions.json) · [State](test-11/state.json) |
 
-Across Tests 1–7, Jev 1.13.0 answered **591/647 (91.3%)** correctly: **397/431 (92.1%)** in Reading and Writing and **194/216 (89.8%)** in Math. This pools one response export per test and weights each included question equally; it is raw subset accuracy, not an official SAT scaled score.
+Across Tests 1–8, Jev 1.13.0 answered **674/738 (91.3%)** correctly: **452/492 (91.9%)** in Reading and Writing and **222/246 (90.2%)** in Math. This pools one response export per test and weights each included response equally. It includes 51 repeat occurrences from Test 8 (687 distinct questions under the documented text comparison); it is not a deduplicated score or an official SAT scaled score. Test 8’s [results](test-8/RESULTS.md#overlap-with-earlier-tests) separate its repeated-question and no-exact-match cohorts.
 
 For each run, send the test’s `questions.json` and `state.json` to Jev. The `answer_key.json` contains the correct answers for grading; `responses.json`, when present, contains the model’s actual output. Keep answer keys out of model inputs.
 
-Tests 8–11 add **362 questions ready for evaluation**; their responses and results are pending. Each test documents its source and omissions. The selected sets for Tests 1–7 have no exact duplicates after normalizing whitespace, underlining markers, and equivalent notation. The new sets contain repeated questions: the same comparison of stems and answer texts, allowing reordered options, finds **51 in Test 8, 37 in Test 9, and 45 in Test 10** matching earlier folders, and **none in Test 11**. Matches are listed in each new test overview. Repeated items remain in their original tests; future pooled results should account for this overlap. Similar templates and partial text overlap may remain. Question IDs are local to their test folders.
+Tests 9–11 contain **271 questions ready for evaluation**; their responses and results are pending. Each test documents its source and omissions. The selected sets for Tests 1–7 have no exact duplicates after normalizing whitespace, underlining markers, and equivalent notation. The new sets contain repeated questions: the same comparison of stems and answer texts, allowing reordered options, finds **51 in Test 8, 37 in Test 9, and 45 in Test 10** matching earlier folders, and **none in Test 11**. Matches are listed in each new test overview. Repeated items remain in their original tests; future pooled results should account for this overlap. Similar templates and partial text overlap may remain. Question IDs are local to their test folders.
 
 ## Reported timing
 
@@ -33,6 +33,7 @@ Tests 8–11 add **362 questions ready for evaluation**; their responses and res
 | Test 5 | 249 ms | 125 ms | ≈ 374 ms |
 | Test 6 | 182 ms | 153 ms | ≈ 335 ms |
 | Test 7 | 213 ms | 181 ms | ≈ 394 ms |
+| Test 8 | 245 ms | 155 ms | ≈ 400 ms |
 
 Server times come from the response exports; network timings are user-reported. Combined times are their sums, not separate end-to-end measurements. Each test uses a different question set and a single response export.
 
@@ -48,8 +49,9 @@ python3 test-4/evaluate.py --check
 python3 test-5/evaluate.py --check
 python3 test-6/evaluate.py --check
 python3 test-7/evaluate.py --check
+python3 test-8/evaluate.py --check
 ```
 
-Completed test folders contain the model output, grading key, results, and model evaluation card. The evaluators for Tests 1–4, 6, and 7 generate both reports directly from their respective input, answer-key, and response files.
+Completed test folders contain the model output, grading key, results, and model evaluation card. The evaluators for Tests 1–4 and 6–8 generate both reports directly from their respective input, answer-key, and response files.
 
 SAT content is owned by College Board and the respective passage rights holders. These independent evaluations are not affiliated with or endorsed by College Board or TypeSafe. Scores are raw subset accuracy, not official SAT scaled scores.
