@@ -11,12 +11,16 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 | SAT Practice Test 5 | 91 | Jev 1.13.0: **81/91 (89.0%)** | [Test overview](test-5/README.md) · [Results](test-5/RESULTS.md) · [Model card](test-5/MODEL_CARD.md) |
 | SAT Practice Test 6 | 88 | Jev 1.13.0: **81/88 (92.0%)** | [Test overview](test-6/README.md) · [Results](test-6/RESULTS.md) · [Model card](test-6/MODEL_CARD.md) |
 | SAT Practice Test 7 | 92 | Jev 1.13.0: **84/92 (91.3%)** | [Test overview](test-7/README.md) · [Results](test-7/RESULTS.md) · [Model card](test-7/MODEL_CARD.md) |
+| SAT Practice Test 8 | 91 | Ready to run | [Test overview](test-8/README.md) · [Questions](test-8/questions.json) · [State](test-8/state.json) |
+| SAT Practice Test 9 | 93 | Ready to run | [Test overview](test-9/README.md) · [Questions](test-9/questions.json) · [State](test-9/state.json) |
+| SAT Practice Test 10 | 91 | Ready to run | [Test overview](test-10/README.md) · [Questions](test-10/questions.json) · [State](test-10/state.json) |
+| SAT Practice Test 11 | 87 | Ready to run | [Test overview](test-11/README.md) · [Questions](test-11/questions.json) · [State](test-11/state.json) |
 
 Across Tests 1–7, Jev 1.13.0 answered **591/647 (91.3%)** correctly: **397/431 (92.1%)** in Reading and Writing and **194/216 (89.8%)** in Math. This pools one response export per test and weights each included question equally; it is raw subset accuracy, not an official SAT scaled score.
 
 For each run, send the test’s `questions.json` and `state.json` to Jev. The `answer_key.json` contains the correct answers for grading; `responses.json`, when present, contains the model’s actual output. Keep answer keys out of model inputs.
 
-Each test documents its source and omissions. The selected question sets have no exact duplicates across Tests 1–7 after normalizing whitespace, underlining markers, and equivalent notation. Similar math templates remain across tests. Question IDs are local to their test folders.
+Tests 8–11 add **362 questions ready for evaluation**; their responses and results are pending. Each test documents its source and omissions. The selected sets for Tests 1–7 have no exact duplicates after normalizing whitespace, underlining markers, and equivalent notation. The new sets contain repeated questions: the same comparison of stems and answer texts, allowing reordered options, finds **51 in Test 8, 37 in Test 9, and 45 in Test 10** matching earlier folders, and **none in Test 11**. Matches are listed in each new test overview. Repeated items remain in their original tests; future pooled results should account for this overlap. Similar templates and partial text overlap may remain. Question IDs are local to their test folders.
 
 ## Reported timing
 

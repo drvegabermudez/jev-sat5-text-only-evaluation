@@ -1,0 +1,912 @@
+{
+  "rw_m1_q01": {
+    "type": "choice",
+    "instructions": "As Mexico’s first president from an Indigenous community, Benito Juarez became one of the most ______ figures in his country’s history: among the many significant accomplishments of his long tenure in office (1858–1872), Juarez consolidated the authority of the national government and advanced the rights of Indigenous peoples.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "unpredictable",
+      "B": "important",
+      "C": "secretive",
+      "D": "ordinary"
+    }
+  },
+  "rw_m1_q02": {
+    "type": "choice",
+    "instructions": "Mônica Lopes-Ferreira and others at Brazil’s Butantan Institute are studying the freshwater stingray species Potamotrygon rex to determine whether biological characteristics such as the rays’ age and sex have _______ effect on the toxicity of their venom—that is, to see if differences in these traits are associated with considerable variations in venom potency.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "a disconcerting",
+      "B": "an acceptable",
+      "C": "an imperceptible",
+      "D": "a substantial"
+    }
+  },
+  "rw_m1_q03": {
+    "type": "choice",
+    "instructions": "Kelp forests grow underwater along the eastern Pacific Coast. These underwater forests are important to fish and other marine animals. Ocean currents can be powerful and rough, making it difficult for animals to find safe places to hide from predators. The underwater forests slow down the currents. This creates a more _______ environment with calmer waters where animals can take shelter.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "tranquil",
+      "B": "dangerous",
+      "C": "imaginative",
+      "D": "surprising"
+    }
+  },
+  "rw_m1_q04": {
+    "type": "choice",
+    "instructions": "The Mule Bone, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of ______ in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "characterization",
+      "B": "interpretation",
+      "C": "collaboration",
+      "D": "commercialization"
+    }
+  },
+  "rw_m1_q05": {
+    "type": "choice",
+    "instructions": "Ofelia Zepeda’s contributions to the field of linguistics are _______: her many accomplishments include working as a linguistics professor and bilingual poet, authoring the first Tohono O’odham grammar book, and co-founding the American Indian Language Development Institute.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "pragmatic",
+      "B": "controversial",
+      "C": "extensive",
+      "D": "universal"
+    }
+  },
+  "rw_m1_q06": {
+    "type": "choice",
+    "instructions": "Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a thermopolium. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To compare ancient artworks with modern ones",
+      "B": "To discuss the political system of Italy",
+      "C": "To present a recent archaeological discovery",
+      "D": "To describe a region’s climate"
+    }
+  },
+  "rw_m1_q07": {
+    "type": "choice",
+    "instructions": "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid.\n\nMiss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To convey the worries brought about by a new guest",
+      "B": "To describe how the characters have changed over time",
+      "C": "To contrast the activity indoors with the stillness outside",
+      "D": "To depict the setting as the characters await a visitor’s arrival"
+    }
+  },
+  "rw_m1_q08": {
+    "type": "choice",
+    "instructions": "The following text is adapted from Aphra Behn’s 1689 novel The Lucky Mistake. Atlante and Rinaldo are neighbors who have been secretly exchanging letters through Charlot, Atlante’s sister.\n\n[Atlante] gave this letter to Charlot; who immediately ran into the balcony with it, where she still found Rinaldo in a melancholy posture, leaning his head on his hand: She showed him the letter, but was afraid to toss it to him, for fear it might fall to the ground; so he ran and fetched a long cane, which he cleft at one end, and held it while she put the letter into the cleft, and stayed not to hear what he said to it. But never was man so transported with joy, as he was at the reading of this letter; it gives him new wounds; for to the generous, nothing obliges love so much as love.\n\nWhich choice best describes the overall structure of the text?",
+    "criteria": {
+      "A": "It describes the delivery of a letter, and then portrays a character’s happiness at reading that letter.",
+      "B": "It establishes that a character is desperate to receive a letter, and then explains why another character has not yet written that letter.",
+      "C": "It presents a character’s concerns about delivering a letter, and then details the contents of that letter.",
+      "D": "It reveals the inspiration behind a character’s letter, and then emphasizes the excitement that another character feels upon receiving that letter."
+    }
+  },
+  "rw_m1_q09": {
+    "type": "choice",
+    "instructions": "According to historian Vicki L. Ruiz, Mexican American women made crucial contributions to the labor movement during World War II. At the time, food processing companies entered into contracts to supply United States armed forces with canned goods. Increased production quotas conferred greater bargaining power on the companies’ employees, many of whom were Mexican American women: [UNDERLINED]employees insisted on more favorable benefits, and employers, who were anxious to fulfill the contracts, complied.[/UNDERLINED] Thus, labor activism became a platform for Mexican American women to assert their agency.\n\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+    "criteria": {
+      "A": "It elaborates on a claim about labor relations in a particular industry made earlier in the text.",
+      "B": "It offers an example of a trend in the World War II–era economy discussed earlier in the text.",
+      "C": "It notes a possible exception to the historical narrative of labor activism sketched earlier in the text.",
+      "D": "It provides further details about the identities of the workers discussed earlier in the text."
+    }
+  },
+  "rw_m1_q10": {
+    "type": "choice",
+    "instructions": "For many years, the only existing fossil evidence of mixopterid eurypterids—an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs—came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, Terropterus xiushanensis, that lived over 400 million years ago on the paleocontinent of Gondwana.\n\nAccording to the text, why was Wang and his team’s discovery of the Terropterus xiushanensis fossil significant?",
+    "criteria": {
+      "A": "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
+      "B": "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
+      "C": "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
+      "D": "The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia."
+    }
+  },
+  "rw_m1_q14": {
+    "type": "choice",
+    "instructions": "Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Martín Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi’s photographs have considerable ethnographic value—in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.\n\nWhich finding, if true, would most directly support the student’s claim?",
+    "criteria": {
+      "A": "Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.",
+      "B": "Chambi’s photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts.",
+      "C": "During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.",
+      "D": "Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers."
+    }
+  },
+  "rw_m1_q15": {
+    "type": "choice",
+    "instructions": "Researchers hypothesized that a decline in the population of dusky sharks near the mid-Atlantic coast of North America led to a decline in the population of eastern oysters in the region. Dusky sharks do not typically consume eastern oysters but do consume cownose rays, which are the main predators of the oysters.\n\nWhich finding, if true, would most directly support the researchers’ hypothesis?",
+    "criteria": {
+      "A": "Declines in the regional abundance of dusky sharks’ prey other than cownose rays are associated with regional declines in dusky shark abundance.",
+      "B": "Eastern oyster abundance tends to be greater in areas with both dusky sharks and cownose rays than in areas with only dusky sharks.",
+      "C": "Consumption of eastern oysters by cownose rays in the region substantially increased before the regional decline in dusky shark abundance began.",
+      "D": "Cownose rays have increased in regional abundance as dusky sharks have decreased in regional abundance."
+    }
+  },
+  "rw_m1_q16": {
+    "type": "choice",
+    "instructions": "In the mountains of Brazil, Barbacenia tomentosa and Barbacenia macrantha—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of B. tomentosa and B. macrantha, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.\n\nWhich finding, if true, would most directly support the researchers’ hypothesis?",
+    "criteria": {
+      "A": "Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.",
+      "B": "Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.",
+      "C": "The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.",
+      "D": "B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates."
+    }
+  },
+  "rw_m1_q17": {
+    "type": "choice",
+    "instructions": "Many mosquito repellents contain natural components that work by activating multiple odor receptors on mosquitoes’ antennae. As the insects develop resistance, new repellents are needed. Ke Dong and her team found that EBF, a molecular component of a chrysanthemum-flower extract, can repel mosquitoes by activating just one odor receptor—and this receptor, Or31, is present in all mosquito species known to carry diseases. Therefore, the researchers suggest that in developing new repellents, it would be most useful to _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "identify molecular components similar to EBF that target the activation of Or31 receptors.",
+      "B": "investigate alternative methods for extracting EBF molecules from chrysanthemums.",
+      "C": "verify the precise locations of Or31 and other odor receptors on mosquitoes’ antennae.",
+      "D": "determine the maximum number of different odor receptors that can be activated by a single molecule."
+    }
+  },
+  "rw_m1_q18": {
+    "type": "choice",
+    "instructions": "Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds’ feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird’s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus Ramphocelus use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "individual male tanagers can engage in honest signaling without relying on carotenoid consumption.",
+      "B": "feather microstructures may be less effective than deeply saturated feathers for signaling overall fitness.",
+      "C": "scientists have yet to determine why tanagers have a preference for mates with colorful appearances.",
+      "D": "a male tanager’s appearance may function as a dishonest signal of the individual’s overall fitness."
+    }
+  },
+  "rw_m1_q19": {
+    "type": "choice",
+    "instructions": "When writing The Other Black Girl (2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris’s first novel, but her writing _______ honored before. At the age of twelve, she entered a contest to have a story published in American Girl magazine—and won.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "were",
+      "B": "have been",
+      "C": "has been",
+      "D": "are"
+    }
+  },
+  "rw_m1_q20": {
+    "type": "choice",
+    "instructions": "In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt’s Great Bitter Lakes. The lock would increase the salinity of the lakes and _______ a natural barrier of water most marine creatures would be unable to cross.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "creates",
+      "B": "create",
+      "C": "creating",
+      "D": "created"
+    }
+  },
+  "rw_m1_q21": {
+    "type": "choice",
+    "instructions": "Paintings by the renowned twentieth-century US _______ were featured in Artist to Artist, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "artists: Thomas Hart Benton and Jackson Pollock,",
+      "B": "artists Thomas Hart Benton and Jackson Pollock",
+      "C": "artists Thomas Hart Benton, and Jackson Pollock,",
+      "D": "artists, Thomas Hart Benton and Jackson Pollock"
+    }
+  },
+  "rw_m1_q22": {
+    "type": "choice",
+    "instructions": "In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper’s subsequent career would involve more than just _______ as a pioneering computer programmer, Hopper would help usher in the digital age.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "equations, though:",
+      "B": "equations, though,",
+      "C": "equations. Though,",
+      "D": "equations though"
+    }
+  },
+  "rw_m1_q23": {
+    "type": "choice",
+    "instructions": "Increased gender diversity is revitalizing the field of economics, according to Harvard’s Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, _______ to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "attests",
+      "B": "has attested",
+      "C": "is attesting",
+      "D": "attest"
+    }
+  },
+  "rw_m1_q24": {
+    "type": "choice",
+    "instructions": "During the English neoclassical period (1660–1789), many writers imitated the epic poetry and satires of ancient Greece and Rome. They were not the first in England to adopt the literary modes of classical _______ some of the most prominent figures of the earlier Renaissance period were also influenced by ancient Greek and Roman literature.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "antiquity, however",
+      "B": "antiquity, however,",
+      "C": "antiquity, however;",
+      "D": "antiquity; however,"
+    }
+  },
+  "rw_m1_q25": {
+    "type": "choice",
+    "instructions": "English poet and Shakespeare contemporary John Donne’s _______ much admired during his lifetime (1572–1631) and in the decades that followed, had, at the time of their enthusiastic rediscovery by the early twentieth-century modernists, been essentially gathering dust for the intervening 250 years.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "works were",
+      "B": "works, were",
+      "C": "works,",
+      "D": "works had been"
+    }
+  },
+  "rw_m1_q26": {
+    "type": "choice",
+    "instructions": "Compared to that of alumina glass, _______ silica glass atoms are so far apart that they are unable to re-form bonds after being separated.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "silica glass is at a significant disadvantage due to its more dispersed atomic arrangement:",
+      "B": "silica glass has a more dispersed atomic arrangement, resulting in a significant disadvantage:",
+      "C": "a significant disadvantage of silica glass is that its atomic arrangement is more dispersed:",
+      "D": "silica glass’s atomic arrangement is more dispersed, resulting in a significant disadvantage:"
+    }
+  },
+  "rw_m1_q27": {
+    "type": "choice",
+    "instructions": "In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France’s modernist masters and beginning to make a name for herself as a painter. _______ Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Still,",
+      "B": "Therefore,",
+      "C": "Indeed,",
+      "D": "Furthermore,"
+    }
+  },
+  "rw_m1_q28": {
+    "type": "choice",
+    "instructions": "In 1974, Mexican chemist Mario Molina and US chemist F. Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. _______ it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Regardless,",
+      "B": "Specifically,",
+      "C": "However,",
+      "D": "Earlier,"
+    }
+  },
+  "rw_m1_q29": {
+    "type": "choice",
+    "instructions": "With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. _______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Second,",
+      "B": "Instead,",
+      "C": "Indeed,",
+      "D": "Nevertheless,"
+    }
+  },
+  "rw_m1_q30": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• The Philadelphia and Lancaster Turnpike was a road built between 1792 and 1794.\n\n• It was the first private turnpike in the United States.\n\n• It connected the cities of Philadelphia and Lancaster in the state of Pennsylvania.\n\n• It was sixty-two miles long.\n\nThe student wants to emphasize the distance covered by the Philadelphia and Lancaster Turnpike. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "The sixty-two-mile-long Philadelphia and Lancaster Turnpike connected the Pennsylvania cities of Philadelphia and Lancaster.",
+      "B": "The Philadelphia and Lancaster Turnpike was the first private turnpike in the United States.",
+      "C": "The Philadelphia and Lancaster Turnpike, which connected two Pennsylvania cities, was built between 1792 and 1794.",
+      "D": "A historic Pennsylvania road, the Philadelphia and Lancaster Turnpike was completed in 1794."
+    }
+  },
+  "rw_m1_q31": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Most, but not all, of the Moon’s oxygen comes from the Sun, via solar wind.\n\n• Cosmochemist Kentaro Terada from Osaka University wondered if some of the unaccounted-for oxygen could be coming from Earth.\n\n• In 2008, he analyzed data from the Japanese satellite Kaguya.\n\n• Kaguya gathered data about gases and particles it encountered while orbiting the Moon.\n\n• Based on the Kaguya data, Terada confirmed his suspicion that Earth is sending oxygen to the Moon.\n\nThe student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "As it orbited the Moon, the Kaguya satellite collected data that was later analyzed by cosmochemist Kentaro Terada.",
+      "B": "Before 2008, Kentaro Terada wondered if the Moon was receiving some of its oxygen from Earth.",
+      "C": "Cosmochemist Kentaro Terada set out to determine whether some of the Moon’s oxygen was coming from Earth.",
+      "D": "Kentaro Terada’s study determined that Earth is sending a small amount of oxygen to the Moon."
+    }
+  },
+  "rw_m1_q32": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• The factors that affect clutch size (the number of eggs laid at one time) have been well studied in birds but not in lizards.\n\n• A team led by Shai Meiri of Tel Aviv University investigated which factors influence lizard clutch size.\n\n• Meiri’s team obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models.\n\n• Larger clutch size was associated with environments in higher latitudes that have more seasonal change.\n\n• Lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.\n\nThe student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Researchers wanted to know which factors influence lizard egg clutch size because such factors have been well studied in birds but not in lizards.",
+      "B": "After they obtained data for over 3,900 lizard species, researchers determined that larger clutch size was associated with environments in higher latitudes that have more seasonal change.",
+      "C": "We now know that lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+      "D": "Researchers obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models."
+    }
+  },
+  "rw_m1_q33": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• British musicians John Lennon and Paul McCartney shared writing credit for numerous Beatles songs.\n\n• Many Lennon-McCartney songs were actually written by either Lennon or McCartney, not by both.\n\n• The exact authorship of specific parts of many Beatles songs, such as the verse for “In My Life,” is disputed.\n\n• Mark Glickman, Jason Brown, and Ryan Song used statistical methods to analyze the musical content of Beatles songs.\n\n• They concluded that there is 18.9% probability that McCartney wrote the verse for “In My Life,” stating that the verse is “consistent with Lennon’s songwriting style.”\n\nThe student wants to make a generalization about the kind of study conducted by Glickman, Brown, and Song. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Based on statistical analysis, Glickman, Brown, and Song claim that John Lennon wrote the verse of “In My Life.”",
+      "B": "There is only an 18.9% probability that Paul McCartney wrote the verse for “In My Life”; John Lennon is the more likely author.",
+      "C": "It is likely that John Lennon, not Paul McCartney, wrote the verse for “In My Life.”",
+      "D": "Researchers have used statistical methods to address questions of authorship within the field of music."
+    }
+  },
+  "rw_m2_q01": {
+    "type": "choice",
+    "instructions": "Art scholars have noted that some colors seem to be more _______ viewers than others. For example, people tend to find paintings featuring blues and greens more appealing than paintings featuring yellows and oranges.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "confusing for",
+      "B": "attractive to",
+      "C": "corrected by",
+      "D": "similar to"
+    }
+  },
+  "rw_m2_q02": {
+    "type": "choice",
+    "instructions": "Researchers and conservationists stress that biodiversity loss due to invasive species is _______. For example, people can take simple steps such as washing their footwear after travel to avoid introducing potentially invasive organisms into new environments.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "preventable",
+      "B": "undeniable",
+      "C": "common",
+      "D": "concerning"
+    }
+  },
+  "rw_m2_q03": {
+    "type": "choice",
+    "instructions": "The process of mechanically recycling plastics is often considered ______ because of the environmental impact and the loss of material quality that often occurs. But chemist Takunda Chazovachii has helped develop a cleaner process of chemical recycling that converts superabsorbent polymers from diapers into a desirable reusable adhesive.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "resilient",
+      "B": "inadequate",
+      "C": "dynamic",
+      "D": "satisfactory"
+    }
+  },
+  "rw_m2_q04": {
+    "type": "choice",
+    "instructions": "In the Indigenous intercropping system known as the Three Sisters, maize, squash, and beans form an _______ web of relations: maize provides the structure on which the bean vines grow; the squash vines cover the soil, discouraging competition from weeds; and the beans aid their two “sisters” by enriching the soil with essential nitrogen.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "indecipherable",
+      "B": "ornamental",
+      "C": "obscure",
+      "D": "intricate"
+    }
+  },
+  "rw_m2_q05": {
+    "type": "choice",
+    "instructions": "Within baleen whale species, some individuals develop an accessory spleen—a seemingly functionless formation of splenetic tissue outside the normal spleen. Given the formation’s greater prevalence among whales known to make deeper dives, some researchers hypothesize that its role isn’t ______; rather, the accessory spleen may actively support diving mechanisms.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "replicable",
+      "B": "predetermined",
+      "C": "operative",
+      "D": "latent"
+    }
+  },
+  "rw_m2_q06": {
+    "type": "choice",
+    "instructions": "In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn’t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated “bots” out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn’t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To discuss von Ahn’s invention of reCAPTCHA",
+      "B": "To explain how digital scanners work",
+      "C": "To call attention to von Ahn’s book-digitizing project",
+      "D": "To indicate how popular reCAPTCHA is"
+    }
+  },
+  "rw_m2_q07": {
+    "type": "choice",
+    "instructions": "The following text is adapted from Gwendolyn Bennett’s 1926 poem “Street Lamps in Early Spring.”\n\nNight wears a garment\nAll velvet soft, all violet blue...\nAnd over her face she draws a veil\nAs shimmering fine as floating dew...\nAnd here and there\nIn the black of her hair\nThe subtle hands of Night\nMove slowly with their gem-starred light.\n\nWhich choice best describes the overall structure of the text?",
+    "criteria": {
+      "A": "It presents alternating descriptions of night in a rural area and in a city.",
+      "B": "It sketches an image of nightfall, then an image of sunrise.",
+      "C": "It makes an extended comparison of night to a human being.",
+      "D": "It portrays how night changes from one season of the year to the next."
+    }
+  },
+  "rw_m2_q08": {
+    "type": "choice",
+    "instructions": "The following text is adapted from Jane Austen’s 1814 novel Mansfield Park. The speaker, Tom, is considering staging a play at home with a group of his friends and family.\n\nWe mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people",
+      "B": "To clarify that the play will not be performed in the manner Tom had originally intended",
+      "C": "To elaborate on the idea that the people around Tom lack the skills to successfully stage a play",
+      "D": "To assert that Tom believes the group performing the play will be able to successfully promote it"
+    }
+  },
+  "rw_m2_q09": {
+    "type": "choice",
+    "instructions": "Text 1\nEcologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to [UNDERLINED]conventional wisdom[/UNDERLINED], one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists’ many efforts to explain this phenomenon still haven’t uncovered a satisfactory explanation.\n\nText 2\nEcologist Michael Behrenfeld and colleagues have connected phytoplankton’s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld’s team, direct competition among phytoplankton probably happens much less than previously thought.\n\nBased on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the “conventional wisdom” discussed in Text 1?",
+    "criteria": {
+      "A": "By arguing that it is based on a misconception about phytoplankton species competing with one another",
+      "B": "By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species",
+      "C": "By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms",
+      "D": "By recommending that more ecologists focus their research on how competition among phytoplankton species is increased with water density"
+    }
+  },
+  "rw_m2_q10": {
+    "type": "choice",
+    "instructions": "The following text is adapted from Sylvia Acevedo’s 2018 memoir Path to the Stars: My Journey from Girl Scout to Rocket Scientist. The narrator is traveling by car with her family to Mexico City. Mario and Laura are her brother and sister.\n\nMario and I played games to see how many different license plates we could spot, and Laura liked to look for children in the back seats of the cars we passed. We were used to the forty-five-minute drive to El Paso and familiar with the six-hour ride to Chihuahua, but I wondered what the long journey to Mexico City would be like. ©2018 by Sylvia Acevedo\n\nAccording to the text, what did the narrator and Mario do while riding in the car?",
+    "criteria": {
+      "A": "They read books.",
+      "B": "They sang songs.",
+      "C": "They went to sleep.",
+      "D": "They played games."
+    }
+  },
+  "rw_m2_q11": {
+    "type": "choice",
+    "instructions": "In the 1700s and 1800s, European composers experimented with volume in their musical works. They did so by increasing the number of musicians playing in the orchestra. For example, in some of his operas, German composer Richard Wagner added more horns, trombones, and tubas to the orchestra. With more instruments playing at the same time, the orchestra could play extremely loudly at key moments in his operas.\n\nAccording to the text, how did Richard Wagner achieve moments of extremely high volume in his operas?",
+    "criteria": {
+      "A": "By moving the performances of his operas from outdoor stages to indoor ones",
+      "B": "By increasing the number of musicians playing horns, trombones, and tubas in the orchestra",
+      "C": "By building a concert hall whose shape would cause sounds to echo",
+      "D": "By insisting that the singers undergo special training to sing for extended periods of time"
+    }
+  },
+  "rw_m2_q12": {
+    "type": "choice",
+    "instructions": "Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on difrasismo, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo in cuauhtli in ocelotl (literally, “the eagle, the jaguar”) signifies “warrior.” The device’s function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.\n\nWhich statement about the difrasismo in cuauhtli in ocelotl is most strongly supported by the text?",
+    "criteria": {
+      "A": "Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the difrasismo.",
+      "B": "Its unintelligibility may cause its formal function within a line of verse to go unnoticed by present-day readers.",
+      "C": "Its apparent obscurity can be resolved when considered in the proper cultural context.",
+      "D": "Its frequency in Classical Nahuatl poetry confirms its intelligibility to the Aztec audience."
+    }
+  },
+  "rw_m2_q13": {
+    "type": "choice",
+    "instructions": "Eighteenth-century economist Adam Smith is famed for his metaphor of the invisible hand, which he putatively used to illustrate a robust model of how individuals produce aggregate benefits by pursuing their own economic interests. Note “putatively”: as Gavin Kennedy has shown, Smith deploys this metaphor only once in his economic writings—to make a narrow point about the then-dominant economic theory of mercantilism—and it was largely ignored until some twentieth-century economists eager to secure an intellectual pedigree for their views elevated it to a fully-fledged paradigm.\n\nWhich choice best states the main idea of the text?",
+    "criteria": {
+      "A": "Although Smith is famed for his metaphor of the invisible hand, the metaphor was largely ignored until economists in the twentieth century came to realize that the metaphor was a robust model that anticipated their own views.",
+      "B": "Some twentieth-century economists gave Smith’s metaphor of the invisible hand a significance it does not have in Smith’s work, but it is nevertheless a useful model of how individuals produce aggregate benefits by pursuing their own economic interests.",
+      "C": "Smith’s metaphor of the invisible hand has been interpreted as a model of how individuals acting in their own interest produce aggregate benefits, but it was intended as a subtle critique of the economic theory of mercantilism.",
+      "D": "The reputation of Smith’s metaphor of the invisible hand is not due to the importance of the metaphor in Smith’s work but rather to the promotion of the metaphor by some later economists for their own ends."
+    }
+  },
+  "rw_m2_q16": {
+    "type": "choice",
+    "instructions": "Psychologists Dacher Keltner and Jonathan Haidt have argued that experiencing awe—a sensation of reverence and wonder typically brought on by perceiving something grand or powerful—can enable us to feel more connected to others and thereby inspire us to act more altruistically. Keltner, along with Paul K. Piff, Pia Dietze, and colleagues, claims to have found evidence for this effect in a recent study where participants were asked to either gaze up at exceptionally tall trees in a nearby grove (reported to be a universally awe-inspiring experience) or stare at the exterior of a nearby, nondescript building. After one minute, an experimenter deliberately spilled a box of pens nearby.\n\nWhich finding from the researchers’ study, if true, would most strongly support their claim?",
+    "criteria": {
+      "A": "Participants who had been looking at the trees helped the experimenter pick up significantly more pens than did participants who had been looking at the building.",
+      "B": "Participants who helped the experimenter pick up the pens used a greater number of positive words to describe the trees and the building in a postexperiment survey than did participants who did not help the experimenter.",
+      "C": "Participants who did not help the experimenter pick up the pens were significantly more likely to report having experienced a feeling of awe, regardless of whether they looked at the building or the trees.",
+      "D": "Participants who had been looking at the building were significantly more likely to notice that the experimenter had dropped the pens than were participants who had been looking at the trees."
+    }
+  },
+  "rw_m2_q17": {
+    "type": "choice",
+    "instructions": "The domestic sweet potato (Ipomoea batatas) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Muñoz-Rodríguez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that ______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "the cultivation of the sweet potato in Polynesia likely predates its cultivation in South America.",
+      "B": "Polynesian peoples likely acquired the sweet potato from South American peoples only within the last three thousand years.",
+      "C": "human activity likely played no role in the introduction of the sweet potato in Polynesia.",
+      "D": "Polynesian sweet potato varieties likely descend from a single South American variety that was domesticated, not wild."
+    }
+  },
+  "rw_m2_q18": {
+    "type": "choice",
+    "instructions": "The morphological novelty of echinoderms—marine invertebrates with radial symmetry, usually starlike, around a central point—impedes comparisons with most other animals, in which bilateral symmetry on an anterior-posterior (head to tail) axis through a trunk is typical. Particularly puzzling are sea stars, thought to have evolved a headless layout from a known bilateral origin. Applying genomic knowledge of Saccoglossus kowalevskii acorn worms (close relatives of sea stars, and thus expected to have similar markers for corresponding anatomical regions) to the body patterning genes of Patiria miniata sea stars, Laurent Formery et al. observed activity only in anterior genes across P. miniata’s entire body and some posterior genes limited to the edges, suggesting that _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "despite the greater prevalence of anterior genes in sea stars’ genetic makeup, posterior genes active at the body’s perimeter are primarily responsible for the starlike layout that distinguishes sea stars’ radial symmetry from that of other echinoderms.",
+      "B": "contrary to the belief that they evolved from early ancestors with the bilateral form typical of many other animals, sea stars instead originated with an atypical body layout that was neither bilaterally nor radially symmetrical.",
+      "C": "although the two species are closely related, there is only minimal correspondence in the genetic markers for head, tail, and trunk region development in P. miniata sea stars and S. kowalevskii acorn worms.",
+      "D": "rather than undergoing changes resulting in the eventual elimination of a head region in their radial body plan, as previously assumed, sea stars’ morphology evolved to completely lack a trunk and consist primarily of a head region."
+    }
+  },
+  "rw_m2_q19": {
+    "type": "choice",
+    "instructions": "To survive when water is scarce, embryos inside African turquoise killifish eggs ______ a dormant state known as diapause. In this state, embryonic development is paused for as long as two years—longer than the life span of an adult killifish.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "enter",
+      "B": "to enter",
+      "C": "having entered",
+      "D": "entering"
+    }
+  },
+  "rw_m2_q20": {
+    "type": "choice",
+    "instructions": "Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. By the end of the 1990s, the organization ______ its initial membership.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "has doubled",
+      "B": "had doubled",
+      "C": "doubles",
+      "D": "will double"
+    }
+  },
+  "rw_m2_q21": {
+    "type": "choice",
+    "instructions": "After the United Kingdom began rolling out taxes equivalent to a few cents on single-use plastic grocery bags in 2011, plastic-bag consumption decreased by up to ninety _______ taxes are subject to what economists call the “rebound effect”: as the change became normalized, plastic-bag use started to creep back up.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "percent, such",
+      "B": "percent and such",
+      "C": "percent. Such",
+      "D": "percent such"
+    }
+  },
+  "rw_m2_q22": {
+    "type": "choice",
+    "instructions": "In 1966, Emmett Ashford became the first African American to umpire a Major League Baseball game. His energetic gestures announcing when a player had struck out and his habit of barreling after a hit ball to see if it would land out of _______ transform the traditionally solemn umpire role into a dynamic one.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "bounds helped",
+      "B": "bounds, helping",
+      "C": "bounds that helped",
+      "D": "bounds to help"
+    }
+  },
+  "rw_m2_q23": {
+    "type": "choice",
+    "instructions": "The forty-seven geothermal springs of Arkansas’ Hot Springs National Park are sourced via a process known as natural groundwater recharge, in which rainwater percolates downward through the earth—in this case, the porous rocks of the hills around Hot ______ collect in a subterranean basin.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "Springs to",
+      "B": "Springs: to",
+      "C": "Springs—to",
+      "D": "Springs, to"
+    }
+  },
+  "rw_m2_q24": {
+    "type": "choice",
+    "instructions": "Over twenty years ago, in a landmark experiment in the psychology of choice, professor Sheena Iyengar set up a jam-tasting booth at a grocery store. The number of jams available for tasting ______ some shoppers had twenty-four different options, others only six. Interestingly, the shoppers with fewer jams to choose from purchased more jam.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "varied:",
+      "B": "varied,",
+      "C": "varied, while",
+      "D": "varied while"
+    }
+  },
+  "rw_m2_q25": {
+    "type": "choice",
+    "instructions": "Nigerian author Buchi Emecheta’s celebrated literary oeuvre includes The Joys of Motherhood, a novel about the changing roles of women in 1950s ______ a television play about the private struggles of a newlywed couple in Nigeria; and Head Above Water, her autobiography.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "Lagos, A Kind of Marriage,",
+      "B": "Lagos; A Kind of Marriage,",
+      "C": "Lagos, A Kind of Marriage:",
+      "D": "Lagos; A Kind of Marriage"
+    }
+  },
+  "rw_m2_q26": {
+    "type": "choice",
+    "instructions": "Jetties—long, narrow structures that extend from a landmass into the water—are often constructed to protect coastlines from erosion. Jetties can sometimes have the opposite _______ obstructing the natural flow of sand along the shore can lead to increased erosion in some areas.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "effect, though;",
+      "B": "effect, though",
+      "C": "effect; though",
+      "D": "effect, though,"
+    }
+  },
+  "rw_m2_q27": {
+    "type": "choice",
+    "instructions": "The Alaska Native Language Archive (ANLA) is known for its impressive audio collection. _______ the ANLA has more than 5,000 audio recordings of Native Alaskan languages dating as far back as 1943.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "In fact,",
+      "B": "After,",
+      "C": "Regardless,",
+      "D": "Instead,"
+    }
+  },
+  "rw_m2_q28": {
+    "type": "choice",
+    "instructions": "Etched into Peru’s Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. ______ archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs of the lines.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Currently,",
+      "B": "In comparison,",
+      "C": "Still,",
+      "D": "However,"
+    }
+  },
+  "rw_m2_q29": {
+    "type": "choice",
+    "instructions": "At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, _______ can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "in other words,",
+      "B": "for instance,",
+      "C": "by contrast,",
+      "D": "accordingly,"
+    }
+  },
+  "rw_m2_q30": {
+    "type": "choice",
+    "instructions": "Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. _______ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Additionally,",
+      "B": "On the contrary,",
+      "C": "As a result,",
+      "D": "Next,"
+    }
+  },
+  "rw_m2_q31": {
+    "type": "choice",
+    "instructions": "Economist Elinor Ostrom’s studies of communities around the world have empirically demonstrated that common pool resources, such as grazing lands, can be sustainably managed by the people who use them (rather than through private entities or centralized governments). _______ Ostrom’s work is a repudiation of the “tragedy of the commons,” the view that individuals will inevitably overexploit a finite shared resource if given unfettered access to it.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "By contrast,",
+      "B": "For example,",
+      "C": "That said,",
+      "D": "As such,"
+    }
+  },
+  "rw_m2_q32": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Some sandstone arches in Utah’s Arches National Park have been defaced by tourists’ carvings.\n\n• Park rangers can smooth away some carvings using power grinders.\n\n• For deep carvings, power grinding is not always feasible because it can greatly alter or damage the rock.\n\n• Park rangers can use an infilling technique, which involves filling in carvings with ground sandstone and a bonding agent.\n\n• This technique is minimally invasive.\n\nThe student wants to explain an advantage of the infilling technique. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "To remove carvings from sandstone arches in Utah’s Arches National Park, power grinding is not always feasible.",
+      "B": "Filling in carvings with ground sandstone and a bonding agent is less invasive than smoothing them away with a power grinder, which can greatly alter or damage the sandstone arches.",
+      "C": "Park rangers can use a power grinding technique to smooth away carvings or fill them in with ground sandstone and a bonding agent.",
+      "D": "As methods for removing carvings from sandstone, power grinding and infilling differ in their level of invasiveness."
+    }
+  },
+  "rw_m2_q33": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Las sergas de Esplandián was a novel popular in sixteenth-century Spain.\n\n• The novel featured a fictional island inhabited solely by Black women and known as California.\n\n• That same century, Spanish explorers learned of an “island” off the west coast of Mexico.\n\n• They called it California after the island in the novel.\n\n• The “island” was actually the peninsula now known as Baja California (“Lower California”), which lies to the south of the US state of California.\n\nThe student wants to emphasize the role a misconception played in the naming of a place. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "The novel Las sergas de Esplandián featured a fictional island known as California.",
+      "B": "To the south of the US state of California lies Baja California (“Lower California”), originally called California after a fictional place.",
+      "C": "In the sixteenth century, Spanish explorers learned of a peninsula off the west coast of Mexico and called it California.",
+      "D": "Thinking it was an island, Spanish explorers called a peninsula California after an island in a popular novel."
+    }
+  },
+  "math_m1_q01": {
+    "type": "choice",
+    "instructions": "A bus is traveling at a constant speed along a straight portion of road. The equation d = 30t gives the distance d, in feet from a road marker, that the bus will be t seconds after passing the marker. How many feet from the marker will the bus be 2 seconds after passing the marker?",
+    "criteria": {
+      "A": "30",
+      "B": "32",
+      "C": "60",
+      "D": "90"
+    }
+  },
+  "math_m1_q02": {
+    "type": "choice",
+    "instructions": "For a particular machine that produces beads, 29 out of every 100 beads it produces have a defect. A bead produced by the machine will be selected at random. What is the probability of selecting a bead that has a defect?",
+    "criteria": {
+      "A": "1/2,900",
+      "B": "1/29",
+      "C": "29/100",
+      "D": "29/10"
+    }
+  },
+  "math_m1_q04": {
+    "type": "choice",
+    "instructions": "Which expression is equivalent to (2x² + x − 9) + (x² + 6x + 1) ?",
+    "criteria": {
+      "A": "2x² + 7x + 10",
+      "B": "2x² + 6x − 8",
+      "C": "3x² + 7x − 10",
+      "D": "3x² + 7x − 8"
+    }
+  },
+  "math_m1_q05": {
+    "type": "choice",
+    "instructions": "An analyst collected data on the price of a carton of grape tomatoes at 30 locations selected at random in Utah. The mean price of a carton of grape tomatoes in Utah was estimated to be $4.23, with an associated margin of error of $0.08. Which of the following is a plausible statement about the mean price of a carton of grape tomatoes for all locations that sell this product in Utah?",
+    "criteria": {
+      "A": "It is between $4.15 and $4.31.",
+      "B": "It is either less than $4.15 or greater than $4.31.",
+      "C": "It is less than $4.15.",
+      "D": "It is greater than $4.31."
+    }
+  },
+  "math_m1_q08": {
+    "type": "choice",
+    "instructions": "f(x) = 4x + b\n\nFor the linear function f, b is a constant and f(7) = 28. What is the value of b ?",
+    "criteria": {
+      "A": "0",
+      "B": "1",
+      "C": "4",
+      "D": "7"
+    }
+  },
+  "math_m1_q09": {
+    "type": "choice",
+    "instructions": "Right triangles LMN and PQR are similar, where L and M correspond to P and Q, respectively. Angle M has a measure of 53°. What is the measure of angle Q ?",
+    "criteria": {
+      "A": "37°",
+      "B": "53°",
+      "C": "127°",
+      "D": "143°"
+    }
+  },
+  "math_m1_q10": {
+    "type": "choice",
+    "instructions": "What is the equation of the line that passes through the point (0, 5) and is parallel to the graph of y = 7x + 4 in the xy-plane?",
+    "criteria": {
+      "A": "y = 5x",
+      "B": "y = 7x + 5",
+      "C": "y = 7x",
+      "D": "y = 5x + 7"
+    }
+  },
+  "math_m1_q12": {
+    "type": "choice",
+    "instructions": "A model predicts that the population of Bergen was 15,000 in 2005. The model also predicts that each year for the next 5 years, the population p increased by 4% of the previous year’s population. Which equation best represents this model, where x is the number of years after 2005, for x ≤ 5 ?",
+    "criteria": {
+      "A": "p = 0.96(15,000)^x",
+      "B": "p = 1.04(15,000)^x",
+      "C": "p = 15,000(0.96)^x",
+      "D": "p = 15,000(1.04)^x"
+    }
+  },
+  "math_m1_q16": {
+    "type": "choice",
+    "instructions": "The area A, in square centimeters, of a rectangular cutting board can be represented by the expression w(w + 9), where w is the width, in centimeters, of the cutting board. Which expression represents the length, in centimeters, of the cutting board?",
+    "criteria": {
+      "A": "w(w + 9)",
+      "B": "w",
+      "C": "9",
+      "D": "(w + 9)"
+    }
+  },
+  "math_m1_q17": {
+    "type": "choice",
+    "instructions": "p = k/(4j + 9)\n\nThe given equation relates the distinct positive numbers p, k, and j. Which equation correctly expresses 4j + 9 in terms of p and k ?",
+    "criteria": {
+      "A": "4j + 9 = k/p",
+      "B": "4j + 9 = kp",
+      "C": "4j + 9 = k − p",
+      "D": "4j + 9 = p/k"
+    }
+  },
+  "math_m1_q18": {
+    "type": "choice",
+    "instructions": "Circle A has a radius of 3n and circle B has a radius of 129n, where n is a positive constant. The area of circle B is how many times the area of circle A?",
+    "criteria": {
+      "A": "43",
+      "B": "86",
+      "C": "129",
+      "D": "1,849"
+    }
+  },
+  "math_m1_q19": {
+    "type": "choice",
+    "instructions": "The measure of angle R is 2π/3 radians. The measure of angle T is 5π/12 radians greater than the measure of angle R. What is the measure of angle T, in [UNDERLINED]degrees[/UNDERLINED]?",
+    "criteria": {
+      "A": "75",
+      "B": "120",
+      "C": "195",
+      "D": "390"
+    }
+  },
+  "math_m1_q22": {
+    "type": "choice",
+    "instructions": "y ≤ x + 7\ny ≥ −2x − 1\n\nWhich point (x, y) is a solution to the given system of inequalities in the xy-plane?",
+    "criteria": {
+      "A": "(−14, 0)",
+      "B": "(0, −14)",
+      "C": "(0, 14)",
+      "D": "(14, 0)"
+    }
+  },
+  "math_m1_q24": {
+    "type": "choice",
+    "instructions": "x − 29 = (x − a)(x − 29)\n\nWhich of the following are solutions to the given equation, where a is a constant and a > 30 ?\n\nI. a\nII. a + 1\nIII. 29",
+    "criteria": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II, and III"
+    }
+  },
+  "math_m1_q25": {
+    "type": "choice",
+    "instructions": "In the xy-plane, the graph of the equation y = −x² + 9x − 100 intersects the line y = c at exactly one point. What is the value of c?",
+    "criteria": {
+      "A": "−481/4",
+      "B": "−100",
+      "C": "−319/4",
+      "D": "−9/2"
+    }
+  },
+  "math_m1_q26": {
+    "type": "choice",
+    "instructions": "The functions f and g are defined by the given equations, where x ≥ 0. Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where x ≥ 0 ?\n\nI. f(x) = 18(1.25)^x + 41\nII. g(x) = 9(0.73)^x",
+    "criteria": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "Neither I nor II"
+    }
+  },
+  "math_m2_q04": {
+    "type": "choice",
+    "instructions": "Sean rents a tent at a cost of $11 per day plus a onetime insurance fee of $10. Which equation represents the total cost c, in dollars, to rent the tent with insurance for d days?",
+    "criteria": {
+      "A": "c = 11(d + 10)",
+      "B": "c = 10(d + 11)",
+      "C": "c = 11d + 10",
+      "D": "c = 10d + 11"
+    }
+  },
+  "math_m2_q08": {
+    "type": "choice",
+    "instructions": "The function f is defined by f(x) = (1/10)x − 2. What is the y-intercept of the graph of y = f(x) in the xy-plane?",
+    "criteria": {
+      "A": "(−2, 0)",
+      "B": "(0, −2)",
+      "C": "(0, 1/10)",
+      "D": "(1/10, 0)"
+    }
+  },
+  "math_m2_q09": {
+    "type": "choice",
+    "instructions": "A producer is creating a video with a length of 70 minutes. The video will consist of segments that are 1 minute long and segments that are 3 minutes long. Which equation represents this situation, where x represents the number of 1-minute segments and y represents the number of 3-minute segments?",
+    "criteria": {
+      "A": "4xy = 70",
+      "B": "4(x + y) = 70",
+      "C": "3x + y = 70",
+      "D": "x + 3y = 70"
+    }
+  },
+  "math_m2_q10": {
+    "type": "choice",
+    "instructions": "The function f is defined by f(x) = 7x³. In the xy-plane, the graph of y = g(x) is the result of shifting the graph of y = f(x) down 2 units. Which equation defines function g ?",
+    "criteria": {
+      "A": "g(x) = (7/2)x³",
+      "B": "g(x) = 7x^(3/2)",
+      "C": "g(x) = 7x³ + 2",
+      "D": "g(x) = 7x³ − 2"
+    }
+  },
+  "math_m2_q11": {
+    "type": "choice",
+    "instructions": "y = −3x\n4x + y = 15\n\nThe solution to the given system of equations is (x, y). What is the value of x ?",
+    "criteria": {
+      "A": "1",
+      "B": "5",
+      "C": "15",
+      "D": "45"
+    }
+  },
+  "math_m2_q15": {
+    "type": "choice",
+    "instructions": "A bowl contains 20 ounces of water. When the bowl is uncovered, the amount of water in the bowl decreases by 1 ounce every 4 days. If 9 ounces of water remain in this bowl, for how many days has it been uncovered?",
+    "criteria": {
+      "A": "3",
+      "B": "7",
+      "C": "36",
+      "D": "44"
+    }
+  },
+  "math_m2_q16": {
+    "type": "choice",
+    "instructions": "If 9(4 − 3x) + 2 = 8(4 − 3x) + 18, what is the value of 4 − 3x ?",
+    "criteria": {
+      "A": "−16",
+      "B": "−4",
+      "C": "4",
+      "D": "16"
+    }
+  },
+  "math_m2_q17": {
+    "type": "choice",
+    "instructions": "A certain township consists of a 5-hectare industrial park and a 24-hectare neighborhood. The total number of trees in the township is 4,529. The equation 5x + 24y = 4,529 represents this situation. Which of the following is the best interpretation of x in this context?",
+    "criteria": {
+      "A": "The average number of trees per hectare in the industrial park",
+      "B": "The average number of trees per hectare in the neighborhood",
+      "C": "The total number of trees in the industrial park",
+      "D": "The total number of trees in the neighborhood"
+    }
+  },
+  "math_m2_q18": {
+    "type": "choice",
+    "instructions": "Which expression is equivalent to a^(11/12), where a > 0 ?",
+    "criteria": {
+      "A": "√[12](a^132)",
+      "B": "√[144](a^132)",
+      "C": "√[121](a^132)",
+      "D": "√[11](a^132)"
+    }
+  },
+  "math_m2_q22": {
+    "type": "choice",
+    "instructions": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube [UNDERLINED]not[/UNDERLINED] taken up by the sphere?",
+    "criteria": {
+      "A": "149,796",
+      "B": "164,500",
+      "C": "190,955",
+      "D": "310,800"
+    }
+  },
+  "math_m2_q23": {
+    "type": "choice",
+    "instructions": "y = 6x + 18\n\nOne of the equations in a system of two linear equations is given. The system has no solution. Which equation could be the second equation in the system?",
+    "criteria": {
+      "A": "−6x + y = 18",
+      "B": "−6x + y = 22",
+      "C": "−12x + y = 36",
+      "D": "−12x + y = 18"
+    }
+  },
+  "math_m2_q24": {
+    "type": "choice",
+    "instructions": "Triangles PQR and LMN are graphed in the xy-plane. Triangle PQR has vertices P, Q, and R at (4, 5), (4, 7), and (6, 5), respectively. Triangle LMN has vertices L, M, and N at (4, 5), (4, 7 + k), and (6 + k, 5), respectively, where k is a positive constant. If the measure of ∠Q is t°, what is the measure of ∠N ?",
+    "criteria": {
+      "A": "(90 − (t − k))°",
+      "B": "(90 − (t + k))°",
+      "C": "(90 − t)°",
+      "D": "(90 + k)°"
+    }
+  },
+  "math_m2_q25": {
+    "type": "choice",
+    "instructions": "2x + 3y = 7\n10x + 15y = 35\n\nFor each real number r, which of the following points lies on the graph of each equation in the xy-plane for the given system?",
+    "criteria": {
+      "A": "(r/5 + 7, −r/5 + 35)",
+      "B": "(−3r/2 + 7/2, r)",
+      "C": "(r, 2r/3 + 7/3)",
+      "D": "(r, −3r/2 + 7/2)"
+    }
+  },
+  "math_m2_q26": {
+    "type": "choice",
+    "instructions": "x²/√(x² − c²) = c²/√(x² − c²) + 39\n\nIn the given equation, c is a positive constant. Which of the following is one of the solutions to the given equation?",
+    "criteria": {
+      "A": "−c",
+      "B": "−c² − 39²",
+      "C": "−√(39² − c²)",
+      "D": "−√(c² + 39²)"
+    }
+  }
+}

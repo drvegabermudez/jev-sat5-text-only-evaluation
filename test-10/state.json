@@ -1,0 +1,7 @@
+{
+  "test_name": "SAT Practice Test 10 — Original Text-Only Multiple Choice (91 Questions)",
+  "test_context": "This test contains independent Reading and Writing and Math questions. Each question includes its complete context and four answer choices labeled A, B, C, and D. Each has one best answer.",
+  "reading_and_writing": "Evaluate each question using its included passage, passages, or notes. Apply Standard English conventions when requested. Text enclosed in [UNDERLINED] and [/UNDERLINED] is the underlined portion referenced by the question.",
+  "math_conventions": "Unless otherwise stated, variables and expressions represent real numbers. Unicode superscripts such as ², ³, and ⁴ and the notation ^ indicate exponentiation. The symbol √ indicates a square root; parentheses preserve its scope. The notation √[n](x) represents the nth root of x. The notation / represents a fraction, and parentheses preserve mathematical grouping. The symbols △, ∠, and ° retain the source triangle, angle, and degree notation. An overbar, as in A̅B̅, denotes a line segment. Vertical bars, as in |x|, denote absolute value.",
+  "evaluation": "Evaluate each question independently using its instructions and answer choices. Do not assume that context from another question applies."
+}

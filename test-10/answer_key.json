@@ -1,0 +1,457 @@
+{
+  "rw_m1_q01": {
+    "choice": "A",
+    "answer": "source",
+    "source_pdf_page": 4
+  },
+  "rw_m1_q02": {
+    "choice": "B",
+    "answer": "observant",
+    "source_pdf_page": 4
+  },
+  "rw_m1_q03": {
+    "choice": "B",
+    "answer": "speculates",
+    "source_pdf_page": 5
+  },
+  "rw_m1_q04": {
+    "choice": "A",
+    "answer": "synchronization",
+    "source_pdf_page": 5
+  },
+  "rw_m1_q05": {
+    "choice": "C",
+    "answer": "an exhaustive",
+    "source_pdf_page": 5
+  },
+  "rw_m1_q06": {
+    "choice": "B",
+    "answer": "It discusses the development of a dance form.",
+    "source_pdf_page": 5
+  },
+  "rw_m1_q07": {
+    "choice": "D",
+    "answer": "It notes an obstacle to observing an astronomical phenomenon, mentions a navigational ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used an optical device to mimic that ability.",
+    "source_pdf_page": 6
+  },
+  "rw_m1_q08": {
+    "choice": "D",
+    "answer": "It suggests that John longs to experience a larger life outside the Florida woods.",
+    "source_pdf_page": 6
+  },
+  "rw_m1_q09": {
+    "choice": "C",
+    "answer": "It identifies the problem that Nance and colleagues attempted to solve but did not.",
+    "source_pdf_page": 7
+  },
+  "rw_m1_q10": {
+    "choice": "C",
+    "answer": "As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres",
+    "source_pdf_page": 7
+  },
+  "rw_m1_q11": {
+    "choice": "C",
+    "answer": "He feels both scared and excited.",
+    "source_pdf_page": 8
+  },
+  "rw_m1_q12": {
+    "choice": "B",
+    "answer": "He is delighted by what he sees in the portrait.",
+    "source_pdf_page": 8
+  },
+  "rw_m1_q13": {
+    "choice": "A",
+    "answer": "He draws from traditional Native art forms to create his original works.",
+    "source_pdf_page": 9
+  },
+  "rw_m1_q14": {
+    "choice": "A",
+    "answer": "“She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring.”",
+    "source_pdf_page": 9
+  },
+  "rw_m1_q15": {
+    "choice": "A",
+    "answer": "The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade.",
+    "source_pdf_page": 10
+  },
+  "rw_m1_q16": {
+    "choice": "A",
+    "answer": "Analysis of the animal bones showed that the cattle’s diet also consisted of wheat, which humans widely cultivated in China during the Bronze Age.",
+    "source_pdf_page": 10
+  },
+  "rw_m1_q18": {
+    "choice": "D",
+    "answer": "reducing invasive E. esula numbers without harming other organisms.",
+    "source_pdf_page": 12
+  },
+  "rw_m1_q19": {
+    "choice": "C",
+    "answer": "ELF3 enables A. thaliana to respond to increased temperatures.",
+    "source_pdf_page": 12
+  },
+  "rw_m1_q20": {
+    "choice": "B",
+    "answer": "out, but",
+    "source_pdf_page": 12
+  },
+  "rw_m1_q21": {
+    "choice": "A",
+    "answer": "value, but",
+    "source_pdf_page": 13
+  },
+  "rw_m1_q22": {
+    "choice": "C",
+    "answer": "forcing",
+    "source_pdf_page": 13
+  },
+  "rw_m1_q23": {
+    "choice": "C",
+    "answer": "lifelike,",
+    "source_pdf_page": 13
+  },
+  "rw_m1_q24": {
+    "choice": "C",
+    "answer": "experiences",
+    "source_pdf_page": 13
+  },
+  "rw_m1_q25": {
+    "choice": "C",
+    "answer": "photosynthesis:",
+    "source_pdf_page": 14
+  },
+  "rw_m1_q26": {
+    "choice": "C",
+    "answer": "their",
+    "source_pdf_page": 14
+  },
+  "rw_m1_q27": {
+    "choice": "A",
+    "answer": "is",
+    "source_pdf_page": 14
+  },
+  "rw_m1_q28": {
+    "choice": "B",
+    "answer": "for example,",
+    "source_pdf_page": 14
+  },
+  "rw_m1_q29": {
+    "choice": "B",
+    "answer": "Previously,",
+    "source_pdf_page": 15
+  },
+  "rw_m1_q30": {
+    "choice": "B",
+    "answer": "Hence,",
+    "source_pdf_page": 15
+  },
+  "rw_m1_q31": {
+    "choice": "B",
+    "answer": "A 2013 analysis of cat bone fragments found in Quanhucun, China, suggests that cats there may have been domesticated 5,300 years ago.",
+    "source_pdf_page": 15
+  },
+  "rw_m1_q32": {
+    "choice": "C",
+    "answer": "While both are by Enriquez, the 2003 portrait of Luis Jimenez is a painting, and the 2016 portrait of Rudolfo Anaya is a drawing.",
+    "source_pdf_page": 16
+  },
+  "rw_m1_q33": {
+    "choice": "C",
+    "answer": "Since 2003, Louise Miller Cohen and Vermelle Rodrigues have worked to preserve Gullah culture through their museums.",
+    "source_pdf_page": 16
+  },
+  "rw_m2_q01": {
+    "choice": "A",
+    "answer": "widespread",
+    "source_pdf_page": 18
+  },
+  "rw_m2_q02": {
+    "choice": "A",
+    "answer": "involuntarily",
+    "source_pdf_page": 18
+  },
+  "rw_m2_q03": {
+    "choice": "D",
+    "answer": "peripheral",
+    "source_pdf_page": 19
+  },
+  "rw_m2_q04": {
+    "choice": "A",
+    "answer": "stymie",
+    "source_pdf_page": 19
+  },
+  "rw_m2_q05": {
+    "choice": "A",
+    "answer": "sanguine",
+    "source_pdf_page": 19
+  },
+  "rw_m2_q06": {
+    "choice": "D",
+    "answer": "To show how much Max wants to visit La Reina",
+    "source_pdf_page": 20
+  },
+  "rw_m2_q07": {
+    "choice": "B",
+    "answer": "To show that Henry’s mother wants him to leave",
+    "source_pdf_page": 20
+  },
+  "rw_m2_q08": {
+    "choice": "B",
+    "answer": "It characterizes the sea’s waves as a relentless and enduring force.",
+    "source_pdf_page": 21
+  },
+  "rw_m2_q09": {
+    "choice": "D",
+    "answer": "Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building’s residents.",
+    "source_pdf_page": 21
+  },
+  "rw_m2_q10": {
+    "choice": "D",
+    "answer": "He describes the crowd as being united, even though the crowd clearly appears otherwise.",
+    "source_pdf_page": 22
+  },
+  "rw_m2_q15": {
+    "choice": "D",
+    "answer": "Shcherbakova and colleagues’ analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity.",
+    "source_pdf_page": 26
+  },
+  "rw_m2_q16": {
+    "choice": "A",
+    "answer": "had an important role in Egypt’s government.",
+    "source_pdf_page": 26
+  },
+  "rw_m2_q17": {
+    "choice": "A",
+    "answer": "could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist.",
+    "source_pdf_page": 26
+  },
+  "rw_m2_q18": {
+    "choice": "A",
+    "answer": "they",
+    "source_pdf_page": 27
+  },
+  "rw_m2_q19": {
+    "choice": "D",
+    "answer": "could the blueberries thrive?",
+    "source_pdf_page": 27
+  },
+  "rw_m2_q20": {
+    "choice": "B",
+    "answer": "reach",
+    "source_pdf_page": 27
+  },
+  "rw_m2_q21": {
+    "choice": "D",
+    "answer": "is",
+    "source_pdf_page": 27
+  },
+  "rw_m2_q22": {
+    "choice": "C",
+    "answer": "outlines",
+    "source_pdf_page": 27
+  },
+  "rw_m2_q23": {
+    "choice": "A",
+    "answer": "threefold: to",
+    "source_pdf_page": 28
+  },
+  "rw_m2_q24": {
+    "choice": "D",
+    "answer": "is",
+    "source_pdf_page": 28
+  },
+  "rw_m2_q25": {
+    "choice": "A",
+    "answer": "food:",
+    "source_pdf_page": 28
+  },
+  "rw_m2_q26": {
+    "choice": "A",
+    "answer": "for instance,",
+    "source_pdf_page": 28
+  },
+  "rw_m2_q27": {
+    "choice": "B",
+    "answer": "Next,",
+    "source_pdf_page": 29
+  },
+  "rw_m2_q28": {
+    "choice": "D",
+    "answer": "Specifically,",
+    "source_pdf_page": 29
+  },
+  "rw_m2_q29": {
+    "choice": "A",
+    "answer": "Fittingly,",
+    "source_pdf_page": 29
+  },
+  "rw_m2_q30": {
+    "choice": "D",
+    "answer": "Increasingly,",
+    "source_pdf_page": 30
+  },
+  "rw_m2_q31": {
+    "choice": "D",
+    "answer": "Shaun Tan’s books Tales from Outer Suburbia and Tales from the Inner City both describe surreal events occurring in otherwise ordinary places.",
+    "source_pdf_page": 30
+  },
+  "rw_m2_q32": {
+    "choice": "A",
+    "answer": "“Guerdon,” the final word of the 2008 Scripps National Spelling Bee, is of Anglo-French origin, while the following year’s final word, “Laodicean,” derives from ancient Greek.",
+    "source_pdf_page": 31
+  },
+  "rw_m2_q33": {
+    "choice": "C",
+    "answer": "Leutze’s and Monkman’s paintings are both huge, measuring 149 × 255 inches and 132 × 264 inches, respectively.",
+    "source_pdf_page": 31
+  },
+  "math_m1_q03": {
+    "choice": "D",
+    "answer": "25 + 10t ≤ 75",
+    "source_pdf_page": 35
+  },
+  "math_m1_q05": {
+    "choice": "D",
+    "answer": "55",
+    "source_pdf_page": 38
+  },
+  "math_m1_q09": {
+    "choice": "B",
+    "answer": "72°",
+    "source_pdf_page": 38
+  },
+  "math_m1_q10": {
+    "choice": "B",
+    "answer": "48",
+    "source_pdf_page": 39
+  },
+  "math_m1_q11": {
+    "choice": "B",
+    "answer": "m⁵q⁹z²",
+    "source_pdf_page": 39
+  },
+  "math_m1_q12": {
+    "choice": "B",
+    "answer": "Decreasing linear",
+    "source_pdf_page": 39
+  },
+  "math_m1_q15": {
+    "choice": "A",
+    "answer": "If the width of the rectangle is 14 ft, then the area of the rectangle is 1,176 ft².",
+    "source_pdf_page": 39
+  },
+  "math_m1_q16": {
+    "choice": "D",
+    "answer": "y = 44,000(2)^t",
+    "source_pdf_page": 40
+  },
+  "math_m1_q18": {
+    "choice": "A",
+    "answer": "21",
+    "source_pdf_page": 40
+  },
+  "math_m1_q22": {
+    "choice": "A",
+    "answer": "6",
+    "source_pdf_page": 41
+  },
+  "math_m1_q23": {
+    "choice": "C",
+    "answer": "(x − 4)² + (y − 9)² = 16",
+    "source_pdf_page": 41
+  },
+  "math_m1_q24": {
+    "choice": "C",
+    "answer": "The lengths of sides BC and EF",
+    "source_pdf_page": 41
+  },
+  "math_m1_q25": {
+    "choice": "D",
+    "answer": "36",
+    "source_pdf_page": 41
+  },
+  "math_m1_q26": {
+    "choice": "A",
+    "answer": "f (x) = 60x + 100",
+    "source_pdf_page": 42
+  },
+  "math_m2_q01": {
+    "choice": "D",
+    "answer": "192",
+    "source_pdf_page": 46
+  },
+  "math_m2_q04": {
+    "choice": "D",
+    "answer": "26",
+    "source_pdf_page": 47
+  },
+  "math_m2_q05": {
+    "choice": "A",
+    "answer": "m = 2(n + p)/7",
+    "source_pdf_page": 47
+  },
+  "math_m2_q08": {
+    "choice": "D",
+    "answer": "78%",
+    "source_pdf_page": 47
+  },
+  "math_m2_q09": {
+    "choice": "D",
+    "answer": "The estimated height of the tree was 4 feet when it was first measured.",
+    "source_pdf_page": 47
+  },
+  "math_m2_q10": {
+    "choice": "B",
+    "answer": "−9",
+    "source_pdf_page": 48
+  },
+  "math_m2_q11": {
+    "choice": "A",
+    "answer": "29/28",
+    "source_pdf_page": 48
+  },
+  "math_m2_q12": {
+    "choice": "C",
+    "answer": "Infinitely many",
+    "source_pdf_page": 48
+  },
+  "math_m2_q15": {
+    "choice": "B",
+    "answer": "√15/4",
+    "source_pdf_page": 49
+  },
+  "math_m2_q17": {
+    "choice": "B",
+    "answer": "(8x − 3)/2",
+    "source_pdf_page": 50
+  },
+  "math_m2_q18": {
+    "choice": "A",
+    "answer": "(0, 14)",
+    "source_pdf_page": 50
+  },
+  "math_m2_q19": {
+    "choice": "C",
+    "answer": "The total number of cups of vegetable broth in the large jars",
+    "source_pdf_page": 50
+  },
+  "math_m2_q22": {
+    "choice": "D",
+    "answer": "26/5",
+    "source_pdf_page": 51
+  },
+  "math_m2_q23": {
+    "choice": "C",
+    "answer": "f(x) = 128(1.6)^(x − 1)",
+    "source_pdf_page": 51
+  },
+  "math_m2_q24": {
+    "choice": "C",
+    "answer": "−25",
+    "source_pdf_page": 51
+  },
+  "math_m2_q25": {
+    "choice": "D",
+    "answer": "3x² + 49x + 14b",
+    "source_pdf_page": 51
+  }
+}
