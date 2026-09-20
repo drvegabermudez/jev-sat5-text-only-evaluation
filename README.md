@@ -5,20 +5,30 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 | Test | Questions | Status | Files |
 |---|---:|---|---|
 | SAT Practice Test 5 | 91 | Jev 1.13.0: **81/91 (89.0%)** | [Test overview](test-5/README.md) · [Results](test-5/RESULTS.md) · [Model card](test-5/MODEL_CARD.md) |
-| SAT Practice Test 6 | 88 | **Ready to send to Jev** | [Questions](test-6/questions.json) · [State](test-6/state.json) · [Test overview](test-6/README.md) |
+| SAT Practice Test 6 | 88 | Jev 1.13.0: **81/88 (92.0%)** | [Test overview](test-6/README.md) · [Results](test-6/RESULTS.md) · [Model card](test-6/MODEL_CARD.md) |
 
 For each run, send the test’s `questions.json` and `state.json` to Jev. The `answer_key.json` contains the correct answers for grading; `responses.json`, when present, contains the model’s actual output. Keep answer keys out of model inputs.
 
 Each test documents its source and omissions. Test 6’s selected questions have no exact duplicates in the evaluated Test 5 set. Question IDs are local to their test folders.
 
-## Reproduce Test 5 results
+## Reported timing
+
+| Test | Server time | Network round trip to us-west | Calculated combined time |
+|---|---:|---:|---:|
+| Test 5 | 249 ms | 125 ms | ≈ 374 ms |
+| Test 6 | 182 ms | 153 ms | ≈ 335 ms |
+
+Server times come from the response exports; network timings are user-reported. Combined times are their sums, not separate end-to-end measurements. Each test uses a different question set and a single response export.
+
+## Reproduce results
 
 Python 3.9 or newer is sufficient; no external packages or model calls are required.
 
 ```bash
 python3 test-5/evaluate.py --check
+python3 test-6/evaluate.py --check
 ```
 
-Test 6 has no model output or score yet. Its folder contains only questions, state, one grading key, and a README.
+Each test folder contains its model output, grading key, results, and model evaluation card. Test 6’s evaluator generates both reports directly from the existing input, answer-key, and response files.
 
 SAT content is owned by College Board and the respective passage rights holders. These independent evaluations are not affiliated with or endorsed by College Board or TypeSafe. Scores are raw subset accuracy, not official SAT scaled scores.
