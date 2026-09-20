@@ -4,7 +4,7 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 
 | Test | Questions | Status | Files |
 |---|---:|---|---|
-| SAT Practice Test 1 | 97 | Ready for Jev | [Test overview](test-1/README.md) · [Questions](test-1/questions.json) · [State](test-1/state.json) |
+| SAT Practice Test 1 | 97 | Jev 1.13.0: **89/97 (91.8%)** | [Test overview](test-1/README.md) · [Results](test-1/RESULTS.md) · [Model card](test-1/MODEL_CARD.md) |
 | SAT Practice Test 2 | 93 | Ready for Jev | [Test overview](test-2/README.md) · [Questions](test-2/questions.json) · [State](test-2/state.json) |
 | SAT Practice Test 3 | 94 | Ready for Jev | [Test overview](test-3/README.md) · [Questions](test-3/questions.json) · [State](test-3/state.json) |
 | SAT Practice Test 4 | 92 | Ready for Jev | [Test overview](test-4/README.md) · [Questions](test-4/questions.json) · [State](test-4/state.json) |
@@ -20,6 +20,7 @@ Each test documents its source and omissions. The selected question sets have no
 
 | Test | Server time | Network round trip | Calculated combined time |
 |---|---:|---:|---:|
+| Test 1 | 216 ms | 67 ms | ≈ 283 ms |
 | Test 5 | 249 ms | 125 ms | ≈ 374 ms |
 | Test 6 | 182 ms | 153 ms | ≈ 335 ms |
 | Test 7 | 213 ms | 181 ms | ≈ 394 ms |
@@ -31,11 +32,12 @@ Server times come from the response exports; network timings are user-reported. 
 Python 3.9 or newer is sufficient; no external packages or model calls are required.
 
 ```bash
+python3 test-1/evaluate.py --check
 python3 test-5/evaluate.py --check
 python3 test-6/evaluate.py --check
 python3 test-7/evaluate.py --check
 ```
 
-Completed test folders contain the model output, grading key, results, and model evaluation card. Tests 1–4 contain prepared inputs and grading references, with results pending. The evaluators for Tests 6 and 7 generate both reports directly from their respective input, answer-key, and response files.
+Completed test folders contain the model output, grading key, results, and model evaluation card. Tests 2–4 contain prepared inputs and grading references, with results pending. The evaluators for Tests 1, 6, and 7 generate both reports directly from their respective input, answer-key, and response files.
 
 SAT content is owned by College Board and the respective passage rights holders. These independent evaluations are not affiliated with or endorsed by College Board or TypeSafe. Scores are raw subset accuracy, not official SAT scaled scores.

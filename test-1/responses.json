@@ -1,0 +1,1175 @@
+{
+  "model": "jev-1.13.0",
+  "answers": {
+    "rw_m1_q01": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q02": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 1,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q03": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q04": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q05": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.96,
+      "probabilities": {
+        "C": 0,
+        "B": 0.97,
+        "D": 0,
+        "A": 0.03
+      },
+      "stats": {}
+    },
+    "rw_m1_q06": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q07": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q08": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.91,
+      "probabilities": {
+        "C": 0.07,
+        "B": 0,
+        "D": 0.93,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q09": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 1,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q10": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 1,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q11": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q12": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q13": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q16": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.89,
+      "probabilities": {
+        "C": 0.92,
+        "B": 0,
+        "D": 0.08,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q17": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q18": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q19": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.77,
+      "probabilities": {
+        "C": 0.15,
+        "B": 0.01,
+        "D": 0.01,
+        "A": 0.83
+      },
+      "stats": {}
+    },
+    "rw_m1_q20": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.32,
+      "probabilities": {
+        "C": 0.49,
+        "B": 0.18,
+        "D": 0.09,
+        "A": 0.24
+      },
+      "stats": {}
+    },
+    "rw_m1_q21": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.98,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q22": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.89,
+      "probabilities": {
+        "C": 0.92,
+        "B": 0.03,
+        "D": 0.01,
+        "A": 0.04
+      },
+      "stats": {}
+    },
+    "rw_m1_q23": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0.99,
+        "D": 0,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "rw_m1_q24": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.81,
+      "probabilities": {
+        "C": 0.04,
+        "B": 0.04,
+        "D": 0.07,
+        "A": 0.85
+      },
+      "stats": {}
+    },
+    "rw_m1_q25": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.9,
+      "probabilities": {
+        "C": 0.05,
+        "B": 0.93,
+        "D": 0.01,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "rw_m1_q26": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m1_q27": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.5,
+      "probabilities": {
+        "C": 0.62,
+        "B": 0.06,
+        "D": 0.1,
+        "A": 0.22
+      },
+      "stats": {}
+    },
+    "rw_m1_q28": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.95,
+      "probabilities": {
+        "C": 0.02,
+        "B": 0.01,
+        "D": 0.01,
+        "A": 0.96
+      },
+      "stats": {}
+    },
+    "rw_m1_q29": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q30": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q31": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q32": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m1_q33": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.88,
+      "probabilities": {
+        "C": 0.92,
+        "B": 0,
+        "D": 0,
+        "A": 0.08
+      },
+      "stats": {}
+    },
+    "rw_m2_q01": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q02": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0,
+        "D": 0.99,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q03": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m2_q04": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.98,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0,
+        "D": 0.99,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q05": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q06": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q07": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q08": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m2_q09": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q10": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q11": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.94,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0.96,
+        "A": 0.04
+      },
+      "stats": {}
+    },
+    "rw_m2_q12": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m2_q14": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m2_q16": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.88,
+      "probabilities": {
+        "C": 0.91,
+        "B": 0.08,
+        "D": 0,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "rw_m2_q17": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0.01,
+        "D": 0,
+        "A": 0.99
+      },
+      "stats": {}
+    },
+    "rw_m2_q18": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q19": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.96,
+      "probabilities": {
+        "C": 0.98,
+        "B": 0.01,
+        "D": 0,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "rw_m2_q20": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.94,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0.95,
+        "D": 0.01,
+        "A": 0.03
+      },
+      "stats": {}
+    },
+    "rw_m2_q21": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.58,
+      "probabilities": {
+        "C": 0.29,
+        "B": 0.02,
+        "D": 0.01,
+        "A": 0.68
+      },
+      "stats": {}
+    },
+    "rw_m2_q22": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.4,
+      "probabilities": {
+        "C": 0.16,
+        "B": 0.25,
+        "D": 0.55,
+        "A": 0.04
+      },
+      "stats": {}
+    },
+    "rw_m2_q23": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0,
+        "D": 0.99,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q24": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.62,
+      "probabilities": {
+        "C": 0.72,
+        "B": 0.18,
+        "D": 0.01,
+        "A": 0.09
+      },
+      "stats": {}
+    },
+    "rw_m2_q25": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.96,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0.02,
+        "D": 0,
+        "A": 0.97
+      },
+      "stats": {}
+    },
+    "rw_m2_q26": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.33,
+      "probabilities": {
+        "C": 0.05,
+        "B": 0.24,
+        "D": 0.5,
+        "A": 0.21
+      },
+      "stats": {}
+    },
+    "rw_m2_q27": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.64,
+      "probabilities": {
+        "C": 0.73,
+        "B": 0.17,
+        "D": 0.02,
+        "A": 0.08
+      },
+      "stats": {}
+    },
+    "rw_m2_q28": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q29": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "rw_m2_q30": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0.99,
+        "B": 0,
+        "D": 0,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "rw_m2_q31": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q32": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "rw_m2_q33": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q01": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q02": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 1,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q03": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q04": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "math_m1_q05": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "math_m1_q08": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q09": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.98,
+      "probabilities": {
+        "C": 0,
+        "B": 0.99,
+        "D": 0,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "math_m1_q10": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.76,
+      "probabilities": {
+        "C": 0.15,
+        "B": 0.82,
+        "D": 0.01,
+        "A": 0.02
+      },
+      "stats": {}
+    },
+    "math_m1_q15": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q16": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.97,
+      "probabilities": {
+        "C": 0.98,
+        "B": 0,
+        "D": 0.02,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q17": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0,
+        "D": 0,
+        "A": 0.99
+      },
+      "stats": {}
+    },
+    "math_m1_q19": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.82,
+      "probabilities": {
+        "C": 0.01,
+        "B": 0.01,
+        "D": 0.87,
+        "A": 0.11
+      },
+      "stats": {}
+    },
+    "math_m1_q22": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.92,
+      "probabilities": {
+        "C": 0.94,
+        "B": 0.01,
+        "D": 0.04,
+        "A": 0.01
+      },
+      "stats": {}
+    },
+    "math_m1_q23": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m1_q25": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.51,
+      "probabilities": {
+        "C": 0.37,
+        "B": 0,
+        "D": 0,
+        "A": 0.63
+      },
+      "stats": {}
+    },
+    "math_m1_q26": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.92,
+      "probabilities": {
+        "C": 0,
+        "B": 0.95,
+        "D": 0.05,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q01": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "math_m2_q02": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q03": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.29,
+      "probabilities": {
+        "C": 0.21,
+        "B": 0.28,
+        "D": 0.04,
+        "A": 0.47
+      },
+      "stats": {}
+    },
+    "math_m2_q04": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q08": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q09": {
+      "type": "choice",
+      "choice": "D",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 1,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q10": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.5,
+      "probabilities": {
+        "C": 0.35,
+        "B": 0.02,
+        "D": 0.01,
+        "A": 0.62
+      },
+      "stats": {}
+    },
+    "math_m2_q11": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0.01,
+        "A": 0.99
+      },
+      "stats": {}
+    },
+    "math_m2_q12": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "math_m2_q15": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 0,
+        "D": 0,
+        "A": 1
+      },
+      "stats": {}
+    },
+    "math_m2_q16": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 1,
+      "probabilities": {
+        "C": 0,
+        "B": 1,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q17": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.99,
+      "probabilities": {
+        "C": 0.99,
+        "B": 0,
+        "D": 0.01,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q18": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 1,
+      "probabilities": {
+        "C": 1,
+        "B": 0,
+        "D": 0,
+        "A": 0
+      },
+      "stats": {}
+    },
+    "math_m2_q19": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.96,
+      "probabilities": {
+        "C": 0,
+        "B": 0.97,
+        "D": 0,
+        "A": 0.03
+      },
+      "stats": {}
+    },
+    "math_m2_q22": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.4,
+      "probabilities": {
+        "C": 0.21,
+        "B": 0.16,
+        "D": 0.08,
+        "A": 0.55
+      },
+      "stats": {}
+    },
+    "math_m2_q23": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.97,
+      "probabilities": {
+        "C": 0,
+        "B": 0.98,
+        "D": 0,
+        "A": 0.02
+      },
+      "stats": {}
+    },
+    "math_m2_q24": {
+      "type": "choice",
+      "choice": "C",
+      "confidence": 0.47,
+      "probabilities": {
+        "C": 0.6,
+        "B": 0.24,
+        "D": 0.04,
+        "A": 0.12
+      },
+      "stats": {}
+    },
+    "math_m2_q25": {
+      "type": "choice",
+      "choice": "B",
+      "confidence": 0.91,
+      "probabilities": {
+        "C": 0,
+        "B": 0.9400000000000001,
+        "D": 0,
+        "A": 0.06
+      },
+      "stats": {}
+    },
+    "math_m2_q26": {
+      "type": "choice",
+      "choice": "A",
+      "confidence": 0.17,
+      "probabilities": {
+        "C": 0.13,
+        "B": 0.15,
+        "D": 0.35,
+        "A": 0.37
+      },
+      "stats": {}
+    }
+  },
+  "usage": {
+    "input_tokens": 18204,
+    "output_tokens": 4562
+  },
+  "request_id": "playground_1ebca40d9fb46b24b5483cf1e4cd7f7a010",
+  "evaluation_time_ms": 215.5186719901394
+}
