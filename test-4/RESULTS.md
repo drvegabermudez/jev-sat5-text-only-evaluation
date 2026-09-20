@@ -1,0 +1,70 @@
+# SAT Practice Test 4 evaluation results
+
+**jev-1.13.0: 87/92 (94.6%) correct.**
+
+The [official College Board scoring guide](https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-4-digital.pdf), page 4, supplies the answer letters recorded in [answer_key.json](answer_key.json). Each correct answer receives one point; omitted questions are not scored.
+
+## Performance
+
+| Group | Correct | Accuracy |
+|---|---:|---:|
+| Reading and Writing, Module 1 | 27/30 | 90.0% |
+| Reading and Writing, Module 2 | 32/32 | 100.0% |
+| Math, Module 1 | 14/15 | 93.3% |
+| Math, Module 2 | 14/15 | 93.3% |
+| **Reading and Writing** | 59/62 | 95.2% |
+| **Math** | 28/30 | 93.3% |
+| **Overall** | 87/92 | 94.6% |
+
+## Incorrect answers
+
+Three errors are in Reading and Writing, all testing Standard English conventions. Two errors are in Math. Confidence below is the exported `confidence` field, distinct from the probability assigned to the selected option.
+
+| Question | Jev answered | Correct answer | Confidence |
+|---|---|---|---:|
+| `rw_m1_q21` | A: ran—fast—during | D: ran—fast. During | 71% |
+| `rw_m1_q25` | A: species, both native and nonnative, | B: species, both native and nonnative; | 82% |
+| `rw_m1_q26` | B: single-handedly; however, | A: single-handedly, however; | 54% |
+| `math_m1_q22` | D: 24 | B: 12 | 69% |
+| `math_m2_q25` | B: x² + (y − 3)² = 49 | D: x² + (y + 1)² = 49 | 56% |
+
+## Explanations
+
+- **`rw_m1_q21`:** The period after “fast” closes the sentence about Rudolph defying expectations. “During the 1960 Summer Olympics…” then opens the next sentence. Choice A uses a second dash in a way that obscures this sentence boundary after the earlier dash in “ran—fast.”
+- **`rw_m1_q25`:** The sentence lists three purposes of botanical gardens. Because the first item contains the internal phrase “both native and nonnative,” semicolons separate the list items. Choice B puts the semicolon after that complete first item, matching the later semicolon after “research.”
+- **`rw_m1_q26`:** “However” belongs with the statement that Okinaka does not decide alone, contrasting with what readers might assume from his board membership. A comma attaches it to that clause, and a semicolon introduces the supporting explanation about the other experts. Choice B incorrectly makes that explanation sound contradictory.
+- **`math_m1_q22`:** The largest side, √80, is the hypotenuse, so the legs are 2√2 and 6√2. The area is half their product: (1/2)(2√2)(6√2) = 12 square units, choice B. The selected value, 24, omits the factor of one-half.
+- **`math_m2_q25`:** Circle A has center (0, 1) and radius 7. Shifting it down two units moves the center to (0, −1) without changing the radius, giving x² + (y + 1)² = 49, choice D. Choice B shifts the center up two units instead.
+
+## Reported usage and timing
+
+| Metric | Value |
+|---|---:|
+| Input tokens | 18,750 |
+| Output tokens | 4,327 |
+| Server time | 198 ms |
+| Network round trip | 107 ms |
+| Calculated combined time | ≈ 305 ms |
+
+Token counts and server time come from the service export (`evaluation_time_ms = 198.10241399682127`). The user confirmed the server-time interpretation and reported the network round-trip time. The combined time adds these two values; it is not a separate end-to-end measurement.
+
+## Validation and provenance
+
+All 92 expected answers are present, with no unexpected IDs. Every answer uses an original A–D option. All probabilities and confidence values lie between 0 and 1, probability distributions sum to 1, and every selected answer has the highest reported probability. Answer-key text matches the corresponding original option.
+
+Request identifier: `playground_1ebaa5199b915174469919c3181250db7f1`. The [response export](responses.json) is preserved byte-for-byte. Prepared inputs and the grading key are unchanged. These hashes identify the evaluated artifacts:
+
+| File | SHA-256 |
+|---|---|
+| [questions.json](questions.json) | `83558559495c9397c41081f42f6ef6500f5bc48d69df297990dcf73c9691c973` |
+| [state.json](state.json) | `7faa96ec775640751d1e98d9d82eafe2100ac8f0421f14b23e69d2fae8c90e0d` |
+| [answer_key.json](answer_key.json) | `4fd4e72052d0afe062cd956d0fa6fb3fdd326d313d79f75384a56f6c26ff9222` |
+| [responses.json](responses.json) | `d0e08195ad79f259721fa129c5b47d83a3caf59cc2b429934c0e4667e6bb2985` |
+
+The export does not embed the original request, execution timestamp, or sampling settings; exact remote inputs cannot be independently verified from it. The score is raw accuracy on the selected subset, not an official SAT scaled score. See the [model evaluation card](MODEL_CARD.md) for scope and limitations.
+
+## Reproduce the results
+
+Run `python3 evaluate.py --check` from this folder, or `python3 test-4/evaluate.py --check` from the repository root. The script verifies the artifact hashes, validates all responses, recalculates the grade, and checks both reports. No external packages, credentials, or model calls are required.
+
+Generated by `python3 evaluate.py --write`.
