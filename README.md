@@ -14,13 +14,15 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 | SAT Practice Test 8 | 91 | Jev 1.13.0: **83/91 (91.2%)** | [Test overview](test-8/README.md) · [Results](test-8/RESULTS.md) · [Model card](test-8/MODEL_CARD.md) |
 | SAT Practice Test 9 | 93 | Jev 1.13.0: **82/93 (88.2%)** | [Test overview](test-9/README.md) · [Results](test-9/RESULTS.md) · [Model card](test-9/MODEL_CARD.md) |
 | SAT Practice Test 10 | 91 | Jev 1.13.0: **85/91 (93.4%)** | [Test overview](test-10/README.md) · [Results](test-10/RESULTS.md) · [Model card](test-10/MODEL_CARD.md) |
-| SAT Practice Test 11 | 87 | Ready to run | [Test overview](test-11/README.md) · [Questions](test-11/questions.json) · [State](test-11/state.json) |
+| SAT Practice Test 11 | 87 | Jev 1.13.0: **79/87 (90.8%)** | [Test overview](test-11/README.md) · [Results](test-11/RESULTS.md) · [Model card](test-11/MODEL_CARD.md) |
 
-Across Tests 1–10, Jev 1.13.0 answered **841/922 (91.2%)** correctly: **563/614 (91.7%)** in Reading and Writing and **278/308 (90.3%)** in Math. This pools one response export per test and weights each included response equally. It includes 133 repeat occurrences from Tests 8–10 (789 distinct questions under the documented text comparison); it is not a deduplicated score or an official SAT scaled score. The results for [Test 8](test-8/RESULTS.md#overlap-with-earlier-tests), [Test 9](test-9/RESULTS.md#overlap-with-earlier-tests), and [Test 10](test-10/RESULTS.md#overlap-with-earlier-tests) separate repeated-question and no-exact-match cohorts.
+Across Tests 1–11, Jev 1.13.0 answered **920/1,009 (91.2%)** correctly: **618/676 (91.4%)** in Reading and Writing and **302/333 (90.7%)** in Math. This pools one response export per test and weights each included response equally. It includes 133 repeat occurrences from Tests 8–10 (876 distinct questions under the documented text comparison); it is not an official SAT scaled score. The results for [Test 8](test-8/RESULTS.md#overlap-with-earlier-tests), [Test 9](test-9/RESULTS.md#overlap-with-earlier-tests), and [Test 10](test-10/RESULTS.md#overlap-with-earlier-tests) separate repeated-question and no-exact-match cohorts.
+
+Counting each distinct question once gives **798/876 (91.1%)**: **531/583 (91.1%)** in Reading and Writing and **267/293 (91.1%)** in Math. For each normalized stem and set of answer texts, this calculation uses the response from the lowest-numbered test containing it, graded against that test’s own key. Selection is independent of correctness; later repeat occurrences do not enter this score. Normalization applies Unicode NFKC and lowercase, removes whitespace, underlining markers, and exponent carets, standardizes minus/dash and apostrophe characters, and ignores answer-choice order. This is a text-overlap adjustment, not evidence that the questions were absent from model training data.
 
 For each run, send the test’s `questions.json` and `state.json` to Jev. The `answer_key.json` contains the correct answers for grading; `responses.json`, when present, contains the model’s actual output. Keep answer keys out of model inputs.
 
-Test 11 contains **87 questions ready for evaluation**; its response and results are pending. Each test documents its source and omissions. The selected sets for Tests 1–7 have no exact duplicates after normalizing whitespace, underlining markers, and equivalent notation. The new sets contain repeated questions: the same comparison of stems and answer texts, allowing reordered options, finds **51 in Test 8, 37 in Test 9, and 45 in Test 10** matching earlier folders, and **none in Test 11**. Matches are listed in each new test overview. Repeated items remain in their original tests; future pooled results should account for this overlap. Similar templates and partial text overlap may remain. Question IDs are local to their test folders.
+All eleven tests have been evaluated. Each test documents its source and omissions. The selected sets for Tests 1–7 have no exact duplicates after normalizing whitespace, underlining markers, and equivalent notation. Tests 8–11 contain repeated questions: the same comparison of stems and answer texts, allowing reordered options, finds **51 in Test 8, 37 in Test 9, and 45 in Test 10** matching earlier folders, and **none in Test 11**. Matches are listed in the corresponding test overviews. Repeated items remain in their original tests; the two aggregate results above show accuracy with and without counting later repeats. Similar templates and partial text overlap may remain. Question IDs are local to their test folders.
 
 ## Reported timing
 
@@ -36,6 +38,7 @@ Test 11 contains **87 questions ready for evaluation**; its response and results
 | Test 8 | 245 ms | 155 ms | ≈ 400 ms |
 | Test 9 | 206 ms | 100 ms | ≈ 306 ms |
 | Test 10 | 203 ms | 118 ms | ≈ 321 ms |
+| Test 11 | 253 ms | 169 ms | ≈ 422 ms |
 
 Server times come from the response exports; network timings are user-reported. Combined times are their sums, not separate end-to-end measurements. Each test uses a different question set and a single response export.
 
@@ -54,8 +57,9 @@ python3 test-7/evaluate.py --check
 python3 test-8/evaluate.py --check
 python3 test-9/evaluate.py --check
 python3 test-10/evaluate.py --check
+python3 test-11/evaluate.py --check
 ```
 
-Completed test folders contain the model output, grading key, results, and model evaluation card. The evaluators for Tests 1–4 and 6–10 generate both reports directly from their respective input, answer-key, and response files.
+Completed test folders contain the model output, grading key, results, and model evaluation card. The evaluators for Tests 1–4 and 6–11 generate both reports directly from their respective input, answer-key, and response files.
 
 SAT content is owned by College Board and the respective passage rights holders. These independent evaluations are not affiliated with or endorsed by College Board or TypeSafe. Scores are raw subset accuracy, not official SAT scaled scores.
