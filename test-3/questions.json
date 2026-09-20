@@ -1,0 +1,942 @@
+{
+  "rw_m1_q01": {
+    "type": "choice",
+    "instructions": "In the early 1800s, the Cherokee scholar Sequoyah created the first script, or writing system, for an Indigenous language in the United States. Because it represented the sounds of spoken Cherokee so accurately, his script was easy to learn and thus quickly achieved _______ use: by 1830, over 90 percent of the Cherokee people could read and write it.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "widespread",
+      "B": "careful",
+      "C": "unintended",
+      "D": "infrequent"
+    }
+  },
+  "rw_m1_q02": {
+    "type": "choice",
+    "instructions": "When Mexican-American archaeologist Zelia Maria Magdalena Nuttall published her 1886 research paper on sculptures found at the ancient Indigenous city of Teotihuacan in present-day Mexico, other researchers readily _______ her work as ground - breaking; this recognition stemmed from her convincing demonstration that the sculptures were much older than had previously been thought.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "acknowledged",
+      "B": "ensured",
+      "C": "denied",
+      "D": "underestimated"
+    }
+  },
+  "rw_m1_q03": {
+    "type": "choice",
+    "instructions": "Like other tribal nations, the Muscogee (Creek) Nation is self-governing; its National Council generates laws regulating aspects of community life such as land use and healthcare, while the principal chief and cabinet officials _______ those laws by devising policies and administering services in accordance with them.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "implement",
+      "B": "presume",
+      "C": "improvise",
+      "D": "mimic"
+    }
+  },
+  "rw_m1_q04": {
+    "type": "choice",
+    "instructions": "In the Indigenous intercropping system known as the Three Sisters, maize, squash, and beans form an _______ web of relations: maize provides the structure on which the bean vines grow; the squash vines cover the soil, discouraging competition from weeds; and the beans aid their two “sisters” by enriching the soil with essential nitrogen.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "indecipherable",
+      "B": "ornamental",
+      "C": "obscure",
+      "D": "intricate"
+    }
+  },
+  "rw_m1_q05": {
+    "type": "choice",
+    "instructions": "The artisans of the Igun Eronmwon guild in Benin City, Nigeria, typically _______ the bronze- and brass-casting techniques that have been passed down through their families since the thirteenth century, but they don’t strictly observe every tradition; for example, guild members now use air-conditioning motors instead of handheld bellows to help heat their forges.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "experiment with",
+      "B": "adhere to",
+      "C": "improve on",
+      "D": "grapple with"
+    }
+  },
+  "rw_m1_q06": {
+    "type": "choice",
+    "instructions": "Some economic historians _______ that late nineteenth- and early twentieth-century households in the United States experienced an economy of scale when it came to food purchases—they assumed that large households spent less on food per person than did small households. Economist Trevon Logan showed, however, that a close look at the available data disproves this supposition.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "surmised",
+      "B": "contrived",
+      "C": "questioned",
+      "D": "regretted"
+    }
+  },
+  "rw_m1_q07": {
+    "type": "choice",
+    "instructions": "The work of Kiowa painter T.C. Cannon derives its power in part from the tension among his _______ influences: classic European portraiture, with its realistic treatment of faces; the American pop art movement, with its vivid colors; and flatstyle, the intertribal painting style that rejects the effect of depth typically achieved through shading and perspective.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "complementary",
+      "B": "unknown",
+      "C": "disparate",
+      "D": "interchangeable"
+    }
+  },
+  "rw_m1_q08": {
+    "type": "choice",
+    "instructions": "New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though there have been many studies of the effect of high altitude on blood chemistry, there is a _______ studies of the effect on blood chemistry of living in locations below sea level, such as the California towns of Salton City and Seeley.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "quarrel about",
+      "B": "paucity of",
+      "C": "profusion of",
+      "D": "verisimilitude in"
+    }
+  },
+  "rw_m1_q09": {
+    "type": "choice",
+    "instructions": "The following text is from Sarah Orne Jewett’s 1899 short story “Martha’s Lady.” Martha is employed by Miss Pyne as a maid.\n\nMiss Pyne sat by the window watching, in her best dress, looking stately and calm; she seldom went out now, and it was almost time for the carriage. Martha was just coming in from the garden with the strawberries, and with more flowers in her apron. It was a bright cool evening in June, the golden robins sang in the elms, and the sun was going down behind the apple-trees at the foot of the garden. The beautiful old house stood wide open to the long-expected guest.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To convey the worries brought about by a new guest",
+      "B": "To describe how the characters have changed over time",
+      "C": "To contrast the activity indoors with the stillness outside",
+      "D": "To depict the setting as the characters await a visitor’s arrival"
+    }
+  },
+  "rw_m1_q10": {
+    "type": "choice",
+    "instructions": "Astronomers are confident that the star Betelgeuse will eventually consume all the helium in its core and explode in a supernova. [UNDERLINED]They are much less confident, however, about when this will happen, since that depends on internal characteristics of Betelgeuse that are largely unknown.[/UNDERLINED] Astrophysicist Sarafina El-Badry Nance and colleagues recently investigated whether acoustic waves in the star could be used to determine internal stellar states but concluded that this method could not sufficiently reveal Betelgeuse’s internal characteristics to allow its evolutionary state to be firmly fixed.\n\nWhich choice best describes the function of the second sentence in the overall structure of the text?",
+    "criteria": {
+      "A": "It explains how the work of Nance and colleagues was received by others in the field.",
+      "B": "It presents the central finding reported by Nance and colleagues.",
+      "C": "It identifies the problem that Nance and colleagues attempted to solve but did not.",
+      "D": "It describes a serious limitation of the method used by Nance and colleagues."
+    }
+  },
+  "rw_m1_q11": {
+    "type": "choice",
+    "instructions": "The following text is from Jane Austen’s 1811 novel Sense and Sensibility. Elinor lives with her younger sisters and her mother, Mrs. Dashwood.\n\nElinor, this eldest daughter, whose advice was so effectual, possessed a strength of understanding, and coolness of judgment, which qualified her, though only nineteen, to be the counsellor of her mother, and enabled her frequently to counteract, to the advantage of them all, that eagerness of mind in Mrs. Dashwood which must generally have led to imprudence. She had an excellent heart;—her disposition was affectionate, and her feelings were strong; but she knew how to govern them: it was a knowledge which her mother had yet to learn; and which one of her sisters had resolved never to be taught.\n\nAccording to the text, what is true about Elinor?",
+    "criteria": {
+      "A": "Elinor often argues with her mother but fails to change her mind.",
+      "B": "Elinor can be overly sensitive with regard to family matters.",
+      "C": "Elinor thinks her mother is a bad role model.",
+      "D": "Elinor is remarkably mature for her age."
+    }
+  },
+  "rw_m1_q12": {
+    "type": "choice",
+    "instructions": "Believing that living in an impractical space can heighten awareness and even improve health, conceptual artists Madeline Gins and Shusaku Arakawa designed an apartment building in Japan to be more fanciful than functional. A kitchen counter is chest-high on one side and knee-high on the other; a ceiling has a door to nowhere. The effect is disorienting but invigorating: after four years there, filmmaker Nobu Yamaoka reported significant health benefits.\n\nWhich choice best states the main idea of the text?",
+    "criteria": {
+      "A": "Although inhabiting a home surrounded by fanciful features such as those designed by Gins and Arakawa can be rejuvenating, it is unsustainable.",
+      "B": "Designing disorienting spaces like those in the Gins and Arakawa building is the most effective way to create a physically stimulating environment.",
+      "C": "As a filmmaker, Yamaoka has long supported the designs of conceptual artists such as Gins and Arakawa.",
+      "D": "Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building’s residents."
+    }
+  },
+  "rw_m1_q13": {
+    "type": "choice",
+    "instructions": "In a research paper, a student criticizes some historians of modern African politics, claiming that they have evaluated Patrice Lumumba, the first prime minister of what is now the Democratic Republic of the Congo, primarily as a symbol rather than in terms of his actions.\n\nWhich quotation from a work by a historian would best illustrate the student’s claim?",
+    "criteria": {
+      "A": "“Lumumba is a difficult figure to evaluate due to the starkly conflicting opinions he inspired during his life and continues to inspire today.”",
+      "B": "“The available information makes it clear that Lumumba’s political beliefs and values were largely consistent throughout his career.”",
+      "C": "“Lumumba’s practical accomplishments can be passed over quickly; it is mainly as the personification of Congolese independence that he warrants scholarly attention.”",
+      "D": "“Many questions remain about Lumumba’s ultimate vision for an independent Congo; without new evidence coming to light, these questions are likely to remain unanswered.”"
+    }
+  },
+  "rw_m1_q15": {
+    "type": "choice",
+    "instructions": "Given that stars and planets initially form from the same gas and dust in space, some astronomers have posited that host stars (such as the Sun) and their planets (such as those in our solar system) are composed of the same materials, with the planets containing equal or smaller quantities of the materials that make up the host star. This idea is also supported by evidence that rocky planets in our solar system are composed of some of the same materials as the Sun.\n\nWhich finding, if true, would most directly weaken the astronomers’ claim?",
+    "criteria": {
+      "A": "Most stars are made of hydrogen and helium, but when cooled they are revealed to contain small amounts of iron and silicate.",
+      "B": "A nearby host star is observed to contain the same proportion of hydrogen and helium as that of the Sun.",
+      "C": "Evidence emerges that the amount of iron in some rocky planets is considerably higher than the amount in their host star.",
+      "D": "The method for determining the composition of rocky planets is discovered to be less effective when used to analyze other kinds of planets."
+    }
+  },
+  "rw_m1_q16": {
+    "type": "choice",
+    "instructions": "In the twentieth century, ethnographers made a concerted effort to collect Mexican American folklore, but they did not always agree about that folklore’s origins. Scholars such as Aurelio Espinosa claimed that Mexican American folklore derived largely from the folklore of Spain, which ruled Mexico and what is now the southwestern United States from the sixteenth to early nineteenth centuries. Scholars such as Américo Paredes, by contrast, argued that while some Spanish influence is undeniable, Mexican American folklore is mainly the product of the ongoing interactions of various cultures in Mexico and the United States.\n\nWhich finding, if true, would most directly support Paredes’s argument?",
+    "criteria": {
+      "A": "The folklore that the ethnographers collected included several songs written in the form of a décima, a type of poem originating in late sixteenth-century Spain.",
+      "B": "Much of the folklore that the ethnographers collected had similar elements from region to region.",
+      "C": "Most of the folklore that the ethnographers collected was previously unknown to scholars.",
+      "D": "Most of the folklore that the ethnographers collected consisted of corridos—ballads about history and social life—of a clearly recent origin."
+    }
+  },
+  "rw_m1_q17": {
+    "type": "choice",
+    "instructions": "In the early nineteenth century, some Euro-American farmers in the northeastern United States used agricultural techniques developed by the Haudenosaunee (Iroquois) people centuries earlier, but it seems that few of those farmers had actually seen Haudenosaunee farms firsthand. Barring the possibility of several farmers of the same era independently developing techniques that the Haudenosaunee people had already invented, these facts most strongly suggest that _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "those farmers learned the techniques from other people who were more directly influenced by Haudenosaunee practices.",
+      "B": "the crops typically cultivated by Euro-American farmers in the northeastern United States were not well suited to Haudenosaunee farming techniques.",
+      "C": "Haudenosaunee farming techniques were widely used in regions outside the northeastern United States.",
+      "D": "Euro-American farmers only began to recognize the benefits of Haudenosaunee farming techniques late in the nineteenth century."
+    }
+  },
+  "rw_m1_q18": {
+    "type": "choice",
+    "instructions": "If some artifacts recovered from excavations of the settlement of Kuulo Kataa, in modern Ghana, date from the thirteenth century CE, that may lend credence to claims that the settlement was founded before or around that time. There is other evidence, however, strongly supporting a fourteenth century CE founding date for Kuulo Kataa. If both the artifact dates and the fourteenth century CE founding date are correct, that would imply that _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "artifacts from the fourteenth century CE are more commonly recovered than are artifacts from the thirteenth century CE.",
+      "B": "the artifacts originated elsewhere and eventually reached Kuulo Kataa through trade or migration.",
+      "C": "Kuulo Kataa was founded by people from a different region than had previously been assumed.",
+      "D": "excavations at Kuulo Kataa may have inadvertently damaged some artifacts dating to the fourteenth century CE."
+    }
+  },
+  "rw_m1_q19": {
+    "type": "choice",
+    "instructions": "A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows Arabidopsis thaliana (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike A. thaliana, displays no acceleration in flowering with increased temperature. A comparison of unmodified A. thaliana plants with the altered plants showed no difference in flowering at 22° Celsius, but at 27° Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that _______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "temperature-sensitive accelerated flowering is unique to A. thaliana.",
+      "B": "A. thaliana increases ELF3 production as temperatures rise.",
+      "C": "ELF3 enables A. thaliana to respond to increased temperatures.",
+      "D": "temperatures of at least 22° Celsius are required for A. thaliana to flower."
+    }
+  },
+  "rw_m1_q20": {
+    "type": "choice",
+    "instructions": "A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA’s Planetary Flight Handbook, which _______ detailed mathematical guidance for missions to Mars and Venus.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "provided",
+      "B": "having provided",
+      "C": "to provide",
+      "D": "providing"
+    }
+  },
+  "rw_m1_q21": {
+    "type": "choice",
+    "instructions": "Typically, underlines, scribbles, and notes left in the margins by a former owner lower a book’s _______ when the former owner is a famous poet like Walt Whitman, such markings, known as marginalia, can be a gold mine to literary scholars.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "value, but",
+      "B": "value",
+      "C": "value,",
+      "D": "value but"
+    }
+  },
+  "rw_m1_q22": {
+    "type": "choice",
+    "instructions": "After the United Kingdom began rolling out taxes equivalent to a few cents on single-use plastic grocery bags in 2011, plastic-bag consumption decreased by up to ninety _______ taxes are subject to what economists call the “rebound effect”: as the change became normalized, plastic-bag use started to creep back up.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "percent, such",
+      "B": "percent and such",
+      "C": "percent. Such",
+      "D": "percent such"
+    }
+  },
+  "rw_m1_q23": {
+    "type": "choice",
+    "instructions": "As British scientist Peter Whibberley has observed, “the Earth is not a very good timekeeper.” Earth’s slightly irregular rotation rate means that measurements of time must be periodically adjusted. Specifically, an extra “leap second” (the 86,401st second of the day) is _______ time based on the planet’s rotation lags a full nine-tenths of a second behind time kept by precise atomic clocks.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "added, whenever",
+      "B": "added; whenever",
+      "C": "added. Whenever",
+      "D": "added whenever"
+    }
+  },
+  "rw_m1_q24": {
+    "type": "choice",
+    "instructions": "Bengali author Toru Dutt’s A Sheaf Gleaned in French Fields (1876), a volume of English translations of French poems, _______ scholars’ understanding of the transnational and multilingual contexts in which Dutt lived and worked.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "has enhanced",
+      "B": "are enhancing",
+      "C": "have enhanced",
+      "D": "enhance"
+    }
+  },
+  "rw_m1_q25": {
+    "type": "choice",
+    "instructions": "Journalists have dubbed Gil Scott-Heron the “godfather of rap,” a title that has appeared in hundreds of articles about him since the 1990s. Scott- Heron himself resisted the godfather _______ feeling that it didn’t encapsulate his devotion to the broader African American blues music tradition as well as “bluesologist,” the moniker he preferred.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "nickname, however",
+      "B": "nickname, however;",
+      "C": "nickname, however,",
+      "D": "nickname; however,"
+    }
+  },
+  "rw_m1_q26": {
+    "type": "choice",
+    "instructions": "From afar, African American fiber artist Bisa Butler’s portraits look like paintings, their depictions of human faces, bodies, and clothing so intricate that it seems only a fine brush could have rendered them. When viewed up close, however, the portraits reveal themselves to be _______ stitching barely visible among the thousands of pieces of printed, microcut fabric.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "quilts, and the",
+      "B": "quilts, the",
+      "C": "quilts; the",
+      "D": "quilts. The"
+    }
+  },
+  "rw_m1_q27": {
+    "type": "choice",
+    "instructions": "Most conifers (trees belonging to the phylum Coniferophyta) are evergreen. That is, they keep their green leaves or needles year-round. However, not all conifer species are evergreen. Larch trees, _______ lose their needles every fall.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "for instance,",
+      "B": "nevertheless,",
+      "C": "meanwhile,",
+      "D": "in addition,"
+    }
+  },
+  "rw_m1_q28": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Sam Maloof (1916–2009) was an American woodworker and furniture designer.\n\n• He was the son of Lebanese immigrants.\n\n• He received a “genius grant” from the John D. and Catherine T. MacArthur Foundation in 1985.\n\n• The Museum of Fine Arts in Boston, Massachusetts, owns a rocking chair that Maloof made from walnut wood.\n\n• The armrests and the seat of the chair are sleek and contoured, and the back consists of seven spindle-like slats.\n\nThe student wants to describe the rocking chair to an audience unfamiliar with Sam Maloof. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "With its sleek, contoured armrests and seat, the walnut rocking chair in Boston’s Museum of Fine Arts is just one piece of furniture created by American woodworker Sam Maloof.",
+      "B": "Sam Maloof was born in 1916 and died in 2009, and during his life, he made a chair that you can see if you visit the Museum of Fine Arts in Boston.",
+      "C": "Furniture designer Sam Maloof was a recipient of one of the John D. and Catherine T. MacArthur Foundation’s “genius grants.”",
+      "D": "The rocking chair is made from walnut, and it has been shaped such that its armrests and seat are sleek and contoured."
+    }
+  },
+  "rw_m1_q29": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• In the late 1890s, over 14,000 unique varieties of apples were grown in the US.\n\n• The rise of industrial agriculture in the mid-1900s narrowed the range of commercially grown crops.\n\n• Thousands of apple varieties considered less suitable for commercial growth were lost.\n\n• Today, only 15 apple varieties dominate the market, making up 90% of apples purchased in the US.\n\n• The Lost Apple Project, based in Washington State, attempts to find and grow lost apple varieties.\n\nThe student wants to emphasize the decline in unique apple varieties in the US and specify why this decline occurred. Which choice most effectively uses relevant information from the notes to accomplish these goals?",
+    "criteria": {
+      "A": "The Lost Apple Project is dedicated to finding some of the apple varieties lost following a shift in agricultural practices in the mid-1900s.",
+      "B": "While over 14,000 apple varieties were grown in the US in the late 1890s, only 15 unique varieties make up most of the apples sold today.",
+      "C": "Since the rise of industrial agriculture, US farmers have mainly grown the same few unique apple varieties, resulting in the loss of thousands of varieties less suitable for commercial growth.",
+      "D": "As industrial agriculture rose to prominence in the mid-1900s, the number of crops selected for cultivation decreased dramatically."
+    }
+  },
+  "rw_m1_q30": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Cecilia Vicuña is a multidisciplinary artist.\n\n• In 1971, her first solo art exhibition, Pinturas, poemas y explicaciones, was shown at the Museo Nacional de Bellas Artes in Santiago, Chile.\n\n• Her poetry collection Precario/Precarious was published in 1983 by Tanam Press.\n\n• Her poetry collection Instan was published in 2002 by Kelsey St. Press.\n\n• She lives part time in Chile, where she was born, and part time in New York.\n\nThe student wants to introduce the artist’s 1983 poetry collection. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Before she published the books Precario/Precarious (1983) and Instan (2002), Cecilia Vicuña exhibited visual art at the Museo Nacional de Bellas Artes in Santiago, Chile.",
+      "B": "Cecilia Vicuña is a true multidisciplinary artist whose works include numerous poetry collections and visual art exhibitions.",
+      "C": "Published in 1983 by Tanam Press, Precario/Precarious is a collection of poetry by the multidisciplinary artist Cecilia Vicuña.",
+      "D": "In 1971, Cecilia Vicuña exhibited her first solo art exhibition, Pinturas, poemas y explicaciones, in Chile, her country of birth."
+    }
+  },
+  "rw_m1_q31": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• When medical students mention their patients on social media, they may violate patient confidentiality.\n\n• Terry Kind led a study to determine how many medical schools have student policies that mention social media use.\n\n• Kind and her team reviewed 132 medical school websites, examining publicly available student policies.\n\n• Only thirteen medical schools had guidelines that explicitly mention social media, and only five defined what constitutes acceptable social media use.\n\nThe student wants to emphasize the study’s methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "The student policies of 132 medical schools can be found online, according to research by Terry Kind.",
+      "B": "To find out how many medical schools have guidelines about student social media use, Terry Kind and her team examined the student policies of 132 medical schools.",
+      "C": "Out of 132 medical schools, only thirteen had student policies that mentioned social media, and only five specified what use was acceptable.",
+      "D": "Terry Kind and her team wanted to know how many medical schools have student social media policies in place about protecting patient confidentiality."
+    }
+  },
+  "rw_m1_q32": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• The Gullah are a group of African Americans who have lived in parts of the southeastern United States since the 18th century.\n\n• Gullah culture is influenced by West African and Central African traditions.\n\n• Louise Miller Cohen is a Gullah historian, storyteller, and preservationist.\n\n• She founded the Gullah Museum of Hilton Head Island, South Carolina, in 2003.\n\n• Vermelle Rodrigues is a Gullah historian, artist, and preservationist.\n\n• She founded the Gullah Museum of Georgetown, South Carolina, in 2003.\n\nThe student wants to emphasize the duration and purpose of Cohen’s and Rodrigues’s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "At the Gullah Museums in Hilton Head Island and Georgetown, South Carolina, visitors can learn more about the Gullah people who have lived in the region for centuries.",
+      "B": "Louise Miller Cohen and Vermelle Rodrigues have worked to preserve the culture of the Gullah people, who have lived in the United States since the 18th century.",
+      "C": "Since 2003, Louise Miller Cohen and Vermelle Rodrigues have worked to preserve Gullah culture through their museums.",
+      "D": "Influenced by the traditions of West and Central Africa, Gullah culture developed in parts of the southeastern United States in the 18th century."
+    }
+  },
+  "rw_m1_q33": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• In North America, woodlands have expanded into areas that were once grasslands.\n\n• Thomas Rogers and F. Leland Russell of Wichita State University investigated whether woodland expansion is related to changes in climate.\n\n• Rogers and Russell analyzed core samples from oak trees on a site that was not wooded in the past and indexed the age of the trees with historical climate data to see if tree populations and climate were correlated.\n\n• Tree population growth was associated with dry intervals.\n\n• Droughts may have played a role in woodland expansion.\n\nThe student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Thomas Rogers and F. Leland Russell, researchers at Wichita State University, wanted to know if woodland expansion is related to changes in climate.",
+      "B": "Thanks to the work done by Thomas Rogers and F. Leland Russell, we now know that droughts may have played a role in woodland expansion.",
+      "C": "Wichita State University researchers have determined that tree population growth was associated with dry intervals.",
+      "D": "Thomas Rogers and F. Leland Russell analyzed core samples from oak trees on a site that was not wooded in the past, indexing the age of the trees with historical climate data."
+    }
+  },
+  "rw_m2_q01": {
+    "type": "choice",
+    "instructions": "According to botanists, a viburnum plant experiencing insect damage may develop erineum—a discolored, felty growth—on its leaf blades. A ______ viburnum plant, on the other hand, will have leaves with smooth surfaces and uniformly green coloration.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "struggling",
+      "B": "beneficial",
+      "C": "simple",
+      "D": "healthy"
+    }
+  },
+  "rw_m2_q02": {
+    "type": "choice",
+    "instructions": "Nigerian American author Teju Cole’s ______ his two passions—photography and the written word—culminates in his 2017 book, Blind Spot, which evocatively combines his original photographs from his travels with his poetic prose.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "indifference to",
+      "B": "enthusiasm for",
+      "C": "concern about",
+      "D": "surprise at"
+    }
+  },
+  "rw_m2_q03": {
+    "type": "choice",
+    "instructions": "Novelist N. K. Jemisin declines to ______ the conventions of the science fiction genre in which she writes, and she has suggested that her readers appreciate her work precisely because of this willingness to thwart expectations and avoid formulaic plots and themes.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "question",
+      "B": "react to",
+      "C": "perceive",
+      "D": "conform to"
+    }
+  },
+  "rw_m2_q04": {
+    "type": "choice",
+    "instructions": "In Nature Poem (2017), Kumeyaay poet Tommy Pico portrays his ______ the natural world by honoring the centrality of nature within his tribe’s traditional beliefs while simultaneously expressing his distaste for being in wilderness settings himself.\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+    "criteria": {
+      "A": "responsiveness to",
+      "B": "ambivalence toward",
+      "C": "renunciation of",
+      "D": "mastery over"
+    }
+  },
+  "rw_m2_q05": {
+    "type": "choice",
+    "instructions": "The following text is from the 1924 poem “Cycle” by D’Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes.\n\nThere shall be new roads wending,\nA new beating of the drum—\n\nMen’s eyes shall have fresh seeing,\nGrey lives reprise their span—\nBut under the new sun’s being,\nCompleting what night began,\n\nThere’ll be the same backs bending,\nThe same sad feet shall drum—\nWhen this night finds its ending\nAnd day shall have come.....\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To consider how the repetitiveness inherent in human life can be both rewarding and challenging",
+      "B": "To question whether activities completed at one time of day are more memorable than those completed at another time of day",
+      "C": "To refute the idea that joy is a more commonly experienced emotion than sadness is",
+      "D": "To demonstrate how the experiences of individuals relate to the experiences of their communities"
+    }
+  },
+  "rw_m2_q06": {
+    "type": "choice",
+    "instructions": "The following text is adapted from Jane Austen’s 1814 novel Mansfield Park. The speaker, Tom, is considering staging a play at home with a group of his friends and family.\n\nWe mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.\n\nWhich choice best states the main purpose of the text?",
+    "criteria": {
+      "A": "To offer Tom’s assurance that the play will be inoffensive and involve only a small number of people",
+      "B": "To clarify that the play will not be performed in the manner Tom had originally intended",
+      "C": "To elaborate on the idea that the people around Tom lack the skills to successfully stage a play",
+      "D": "To assert that Tom believes the group performing the play will be able to successfully promote it"
+    }
+  },
+  "rw_m2_q07": {
+    "type": "choice",
+    "instructions": "Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album Turbulent Indigo (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh’s Self-Portrait with Bandaged Ear (1889). The image calls attention to the album’s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh—an idea that is reinforced by her imagery on the cover.\n\nWhich choice best describes the overall structure of the text?",
+    "criteria": {
+      "A": "It presents a claim about Mitchell, then gives an example supporting that claim.",
+      "B": "It discusses Van Gogh’s influence on Mitchell, then considers Mitchell’s influence on other artists.",
+      "C": "It describes a similarity between two artists, then notes a difference between them.",
+      "D": "It describes the songs on Turbulent Indigo, then explains how they relate to the album’s cover."
+    }
+  },
+  "rw_m2_q08": {
+    "type": "choice",
+    "instructions": "Text 1\nAstronomer Mark Holland and colleagues examined four white dwarfs—small, dense remnants of past stars—in order to determine the composition of exoplanets that used to orbit those stars. Studying wavelengths of light in the white dwarf atmospheres, the team reported that traces of elements such as lithium and sodium support the presence of exoplanets with continental crusts similar to Earth’s.\n\nText 2\nPast studies of white dwarf atmospheres have concluded that certain exoplanets had continental crusts. Geologist Keith Putirka and astronomer Siyi Xu argue that those studies unduly emphasize atmospheric traces of lithium and other individual elements as signifiers of the types of rock found on Earth. The studies don’t adequately account for different minerals made up of various ratios of those elements, and the possibility of rock types not found on Earth that contain those minerals.\n\nBased on the texts, how would Putirka and Xu (Text 2) most likely characterize the conclusion presented in Text 1?",
+    "criteria": {
+      "A": "As unexpected, because it was widely believed at the time that white dwarf exoplanets lack continental crusts",
+      "B": "As premature, because researchers have only just begun trying to determine what kinds of crusts white dwarf exoplanets had",
+      "C": "As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres",
+      "D": "As puzzling, because it’s unusual to successfully detect lithium and sodium when analyzing wavelengths of light in white dwarf atmospheres"
+    }
+  },
+  "rw_m2_q09": {
+    "type": "choice",
+    "instructions": "Utah is home to Pando, a colony of about 47,000 quaking aspen trees that all share a single root system. Pando is one of the largest single organisms by mass on Earth, but ecologists are worried that its growth is declining in part because of grazing by animals. The ecologists say that strong fences could prevent deer from eating young trees and help Pando start thriving again.\n\nAccording to the text, why are ecologists worried about Pando?",
+    "criteria": {
+      "A": "It isn’t growing at the same rate it used to.",
+      "B": "It isn’t producing young trees anymore.",
+      "C": "It can’t grow into new areas because it is blocked by fences.",
+      "D": "Its root system can’t support many more new trees."
+    }
+  },
+  "rw_m2_q10": {
+    "type": "choice",
+    "instructions": "For many years, the only existing fossil evidence of mixopterid eurypterids—an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs—came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, Terropterus xiushanensis, that lived over 400 million years ago on the paleocontinent of Gondwana.\n\nAccording to the text, why was Wang and his team’s discovery of the Terropterus xiushanensis fossil significant?",
+    "criteria": {
+      "A": "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
+      "B": "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
+      "C": "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
+      "D": "The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia."
+    }
+  },
+  "rw_m2_q11": {
+    "type": "choice",
+    "instructions": "The novelist Toni Morrison was the first Black woman to work as an editor at the publishing company Random House, from 1967 to 1983. A scholar asserts that one of Morrison’s likely aims during her time as an editor was to strengthen the presence of Black writers on the list of Random House’s published authors.\n\nWhich finding, if true, would most strongly support the scholar’s claim?",
+    "criteria": {
+      "A": "The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade.",
+      "B": "Black authors who were interviewed in the 1980s and 1990s were highly likely to cite Toni Morrison’s novels as a principal influence on their work.",
+      "C": "The novels written by Toni Morrison that were published after 1983 sold significantly more copies and received wider critical acclaim than the novels she wrote that were published before 1983.",
+      "D": "Works that were edited by Toni Morrison during her time at Random House displayed stylistic characteristics that distinguished them from works that were not edited by Morrison."
+    }
+  },
+  "rw_m2_q12": {
+    "type": "choice",
+    "instructions": "“The Poet Walt Whitman” is an 1887 essay by José Martí, a Cuban author and political activist, originally written in Spanish. In the essay, Martí explores the value of literature, arguing that a society’s spiritual well-being depends on the character of its literary culture: ______\n\nWhich quotation from a translation of “The Poet Walt Whitman” most effectively illustrates the claim?",
+    "criteria": {
+      "A": "“Poetry, which brings together or separates, which fortifies or brings anguish, which shores up or demolishes souls, which gives or robs men of faith and vigor, is more necessary to a people than industry itself, for industry provides them with a means of subsistence, while literature gives them the desire and strength for life.”",
+      "B": "“Every society brings to literature its own form of expression, and the history of the nations can be told with greater truth by the stages of literature than by chronicles and decades.”",
+      "C": "“Where will a race of men go when they have lost the habit of thinking with faith about the scope and meaning of their actions? The best among them, those who consecrate Nature with their sacred desire for the future, will lose, in a sordid and painful annihilation, all stimulus to alleviate the ugliness of humanity.”",
+      "D": "“Listen to the song of this hardworking and satisfied nation; listen to Walt Whitman. The exercise of himself exalts him to majesty, tolerance exalts him to justice, and order to joy.”"
+    }
+  },
+  "rw_m2_q16": {
+    "type": "choice",
+    "instructions": "Ratified by more than 90 countries, the Nagoya Protocol is an international agreement ensuring that Indigenous communities are compensated when their agricultural resources and knowledge of wild plants and animals are utilized by agricultural corporations. However, the protocol has shortcomings. For example, it allows corporations to insist that their agreements with communities to conduct research on the commercial uses of the communities’ resources and knowledge remain confidential. Therefore, some Indigenous advocates express concern that the protocol may have the unintended effect of ______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "diminishing the monetary reward that corporations might derive from their agreements with Indigenous communities.",
+      "B": "limiting the research that corporations conduct on the resources of the Indigenous communities with which they have signed agreements.",
+      "C": "preventing independent observers from determining whether the agreements guarantee equitable compensation for Indigenous communities.",
+      "D": "discouraging Indigenous communities from learning new methods for harvesting plants and animals from their corporate partners."
+    }
+  },
+  "rw_m2_q17": {
+    "type": "choice",
+    "instructions": "The domestic sweet potato (Ipomoea batatas) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Muñoz-Rodríguez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that ______\n\nWhich choice most logically completes the text?",
+    "criteria": {
+      "A": "the cultivation of the sweet potato in Polynesia likely predates its cultivation in South America.",
+      "B": "Polynesian peoples likely acquired the sweet potato from South American peoples only within the last three thousand years.",
+      "C": "human activity likely played no role in the introduction of the sweet potato in Polynesia.",
+      "D": "Polynesian sweet potato varieties likely descend from a single South American variety that was domesticated, not wild."
+    }
+  },
+  "rw_m2_q18": {
+    "type": "choice",
+    "instructions": "Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they ______ a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "will reach",
+      "B": "reach",
+      "C": "had reached",
+      "D": "are reaching"
+    }
+  },
+  "rw_m2_q19": {
+    "type": "choice",
+    "instructions": "Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study ______ why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "explains",
+      "B": "explaining",
+      "C": "having explained",
+      "D": "to explain"
+    }
+  },
+  "rw_m2_q20": {
+    "type": "choice",
+    "instructions": "Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations’ Universal Declaration of Human Rights, a document that ______ the basic freedoms to which all people are entitled.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "have outlined",
+      "B": "were outlining",
+      "C": "outlines",
+      "D": "outline"
+    }
+  },
+  "rw_m2_q21": {
+    "type": "choice",
+    "instructions": "The life spans of rockfish vary greatly by species. For instance, the colorful calico rockfish (Sebastes dalli) can survive for a little over a ______ the rougheye rockfish (Sebastes aleutianus) boasts a maximum life span of about two centuries.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "decade: while",
+      "B": "decade. While",
+      "C": "decade; while",
+      "D": "decade, while"
+    }
+  },
+  "rw_m2_q22": {
+    "type": "choice",
+    "instructions": "The Lion Light system, developed by Kenyan inventor Richard Turere, consists of LED lights installed around the perimeter of livestock pastures. Powered with ______ the blinking LEDs keep lions away at night, thus protecting the livestock without risking harm to the endangered lions.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "energy collected, by solar panels, during the day",
+      "B": "energy collected by solar panels during the day",
+      "C": "energy collected by solar panels during the day,",
+      "D": "energy, collected by solar panels during the day,"
+    }
+  },
+  "rw_m2_q23": {
+    "type": "choice",
+    "instructions": "Materials scientist Marie-Agathe Charpagne and her colleagues believed they could improve on the multicomponent alloy NiCoCr, an equal-proportions mixture of nickel (Ni), cobalt (Co), and chromium (Cr), by replacing chromium with ruthenium ______ the alloy that resulted, NiCoRu, turned out to be an unsuitable replacement for NiCoCr.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "(Ru)",
+      "B": "(Ru) but",
+      "C": "(Ru),",
+      "D": "(Ru), but"
+    }
+  },
+  "rw_m2_q24": {
+    "type": "choice",
+    "instructions": "The Progressive Era in the United States witnessed the rise of numerous Black women’s clubs, local organizations that advocated for racial and gender equality. Among the clubs’ leaders ______ Josephine St. Pierre Ruffin, founder of the Women’s Era Club of Boston.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "was",
+      "B": "were",
+      "C": "are",
+      "D": "have been"
+    }
+  },
+  "rw_m2_q25": {
+    "type": "choice",
+    "instructions": "Based on genetic evidence, archaeologists have generally agreed that reindeer domestication began in the eleventh century CE. However, since uncovering fragments of a 2,000-year-old reindeer training harness in northern Siberia, ______ may have begun much earlier.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "researcher Robert Losey has argued that domestication",
+      "B": "researcher Robert Losey’s argument is that domestication",
+      "C": "domestication, researcher Robert Losey has argued,",
+      "D": "the argument researcher Robert Losey has made is that domestication"
+    }
+  },
+  "rw_m2_q26": {
+    "type": "choice",
+    "instructions": "Hegra is an archaeological site in present-day Saudi Arabia and was the second largest city of the Nabataean Kingdom (fourth century BCE to first century CE). Archaeologist Laila Nehmé recently traveled to Hegra to study its ancient ______ into the rocky outcrops of a vast desert, these burial chambers seem to blend seamlessly with nature.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "tombs. Built",
+      "B": "tombs, built",
+      "C": "tombs and built",
+      "D": "tombs built"
+    }
+  },
+  "rw_m2_q27": {
+    "type": "choice",
+    "instructions": "When external forces are applied to common glass made from silicates, energy builds up around minuscule defects in the material, resulting in fractures. Recently, engineer Erkka Frankberg of Tampere University in Finland used the chemical ______ to make a glassy solid that can withstand higher strain than silicate glass can before fracturing.\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+    "criteria": {
+      "A": "compound, aluminum oxide",
+      "B": "compound aluminum oxide,",
+      "C": "compound, aluminum oxide,",
+      "D": "compound aluminum oxide"
+    }
+  },
+  "rw_m2_q28": {
+    "type": "choice",
+    "instructions": "Etched into Peru’s Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. ______ archaeologists’ efforts are aided by drones that capture high-resolution aerial photographs of the lines.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Currently,",
+      "B": "In comparison,",
+      "C": "Still,",
+      "D": "However,"
+    }
+  },
+  "rw_m2_q29": {
+    "type": "choice",
+    "instructions": "Archaeologist Sue Brunning explains why the seventh-century ship burial site at Sutton Hoo in England was likely the tomb of a king. First, the gold artifacts inside the ship suggest that the person buried with them was a wealthy and respected leader. ______ the massive effort required to bury the ship would likely only have been undertaken for a king.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Instead,",
+      "B": "Still,",
+      "C": "Specifically,",
+      "D": "Second,"
+    }
+  },
+  "rw_m2_q30": {
+    "type": "choice",
+    "instructions": "The more diverse and wide ranging an animal’s behaviors, the larger and more energy demanding the animal’s brain tends to be. ______ from an evolutionary perspective, animals that perform only basic actions should allocate fewer resources to growing and maintaining brain tissue. The specialized subtypes of ants within colonies provide an opportunity to explore this hypothesis.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Subsequently,",
+      "B": "Besides,",
+      "C": "Nevertheless,",
+      "D": "Thus,"
+    }
+  },
+  "rw_m2_q31": {
+    "type": "choice",
+    "instructions": "When designing costumes for film, American artist Suttirat Larlarb typically custom fits the garments to each actor. ______ for the film Sunshine, in which astronauts must reignite a dying Sun, she designed a golden spacesuit and had a factory reproduce it in a few standard sizes; lacking a tailor-made quality, the final creations reflected the ungainliness of actual spacesuits.\n\nWhich choice completes the text with the most logical transition?",
+    "criteria": {
+      "A": "Nevertheless,",
+      "B": "Thus,",
+      "C": "Likewise,",
+      "D": "Moreover,"
+    }
+  },
+  "rw_m2_q32": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• Shaun Tan is an Australian author.\n\n• In 2008, he published Tales from Outer Suburbia, a book of fifteen short stories.\n\n• The stories describe surreal events occurring in otherwise ordinary suburban neighborhoods.\n\n• In 2018, he published Tales from the Inner City, a book of twenty-five short stories.\n\n• The stories describe surreal events occurring in otherwise ordinary urban settings.\n\nThe student wants to emphasize a similarity between the two books by Shaun Tan. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Shaun Tan’s book Tales from Outer Suburbia, which describes surreal events occurring in otherwise ordinary places, contains fewer short stories than Tales from the Inner City does.",
+      "B": "Tales from Outer Suburbia was published in 2008, and Tales from the Inner City was published in 2018.",
+      "C": "Unlike Tales from the Inner City, Shaun Tan’s book Tales from Outer Suburbia is set in suburban neighborhoods.",
+      "D": "Shaun Tan’s books Tales from Outer Suburbia and Tales from the Inner City both describe surreal events occurring in otherwise ordinary places."
+    }
+  },
+  "rw_m2_q33": {
+    "type": "choice",
+    "instructions": "While researching a topic, a student has taken the following notes:\n\n• The factors that affect clutch size (the number of eggs laid at one time) have been well studied in birds but not in lizards.\n\n• A team led by Shai Meiri of Tel Aviv University investigated which factors influence lizard clutch size.\n\n• Meiri’s team obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models.\n\n• Larger clutch size was associated with environments in higher latitudes that have more seasonal change.\n\n• Lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.\n\nThe student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "criteria": {
+      "A": "Researchers wanted to know which factors influence lizard egg clutch size because such factors have been well studied in birds but not in lizards.",
+      "B": "After they obtained data for over 3,900 lizard species, researchers determined that larger clutch size was associated with environments in higher latitudes that have more seasonal change.",
+      "C": "We now know that lizards in higher-latitude environments may lay larger clutches to take advantage of shorter windows of favorable conditions.",
+      "D": "Researchers obtained clutch-size and habitat data for over 3,900 lizard species and analyzed the data with statistical models."
+    }
+  },
+  "math_m1_q01": {
+    "type": "choice",
+    "instructions": "k + 12 = 336\n\nWhat is the solution to the given equation?",
+    "criteria": {
+      "A": "28",
+      "B": "324",
+      "C": "348",
+      "D": "4,032"
+    }
+  },
+  "math_m1_q02": {
+    "type": "choice",
+    "instructions": "The function f is defined by f(x) = x³ + 15. What is the value of f(2) ?",
+    "criteria": {
+      "A": "20",
+      "B": "21",
+      "C": "23",
+      "D": "24"
+    }
+  },
+  "math_m1_q03": {
+    "type": "choice",
+    "instructions": "Sean rents a tent at a cost of $11 per day plus a onetime insurance fee of $10. Which equation represents the total cost c, in dollars, to rent the tent with insurance for d days?",
+    "criteria": {
+      "A": "c = 11(d + 10)",
+      "B": "c = 10(d + 11)",
+      "C": "c = 11d + 10",
+      "D": "c = 10d + 11"
+    }
+  },
+  "math_m1_q05": {
+    "type": "choice",
+    "instructions": "John paid a total of $165 for a microscope by making a down payment of $37 plus p monthly payments of $16 each. Which of the following equations represents this situation?",
+    "criteria": {
+      "A": "16p − 37 = 165",
+      "B": "37p − 16 = 165",
+      "C": "16p + 37 = 165",
+      "D": "37p + 16 = 165"
+    }
+  },
+  "math_m1_q10": {
+    "type": "choice",
+    "instructions": "Square X has a side length of 12 centimeters. The perimeter of square Y is 2 times the perimeter of square X. What is the length, in centimeters, of one side of square Y?",
+    "criteria": {
+      "A": "6",
+      "B": "10",
+      "C": "14",
+      "D": "24"
+    }
+  },
+  "math_m1_q11": {
+    "type": "choice",
+    "instructions": "What is the equation of the line that passes through the point (0, 5) and is parallel to the graph of y = 7x + 4 in the xy-plane?",
+    "criteria": {
+      "A": "y = 5x",
+      "B": "y = 7x + 5",
+      "C": "y = 7x",
+      "D": "y = 5x + 7"
+    }
+  },
+  "math_m1_q12": {
+    "type": "choice",
+    "instructions": "In the linear function h, h(0) = 41 and h(1) = 40. Which equation defines h ?",
+    "criteria": {
+      "A": "h(x) = −x + 41",
+      "B": "h(x) = −x",
+      "C": "h(x) = −41x",
+      "D": "h(x) = −41"
+    }
+  },
+  "math_m1_q15": {
+    "type": "choice",
+    "instructions": "A candle is made of 17 ounces of wax. When the candle is burning, the amount of wax in the candle decreases by 1 ounce every 4 hours. If 6 ounces of wax remain in this candle, for how many hours has it been burning?",
+    "criteria": {
+      "A": "3",
+      "B": "6",
+      "C": "24",
+      "D": "44"
+    }
+  },
+  "math_m1_q16": {
+    "type": "choice",
+    "instructions": "14j + 5k = m\n\nThe given equation relates the numbers j, k, and m. Which equation correctly expresses k in terms of j and m ?",
+    "criteria": {
+      "A": "k = (m − 14j)/5",
+      "B": "k = (1/5)m − 14j",
+      "C": "k = (14j − m)/5",
+      "D": "k = 5m − 14j"
+    }
+  },
+  "math_m1_q17": {
+    "type": "choice",
+    "instructions": "Triangle FGH is similar to triangle JKL, where angle F corresponds to angle J and angles G and K are right angles. If sin(F) = 308/317, what is the value of sin(J) ?",
+    "criteria": {
+      "A": "75/317",
+      "B": "308/317",
+      "C": "317/308",
+      "D": "317/75"
+    }
+  },
+  "math_m1_q18": {
+    "type": "choice",
+    "instructions": "The product of two positive integers is 546. If the first integer is 11 greater than twice the second integer, what is the smaller of the two integers?",
+    "criteria": {
+      "A": "7",
+      "B": "14",
+      "C": "39",
+      "D": "78"
+    }
+  },
+  "math_m1_q19": {
+    "type": "choice",
+    "instructions": "y ≤ x + 7\ny ≥ −2x − 1\n\nWhich point (x, y) is a solution to the given system of inequalities in the xy-plane?",
+    "criteria": {
+      "A": "(−14, 0)",
+      "B": "(0, −14)",
+      "C": "(0, 14)",
+      "D": "(14, 0)"
+    }
+  },
+  "math_m1_q22": {
+    "type": "choice",
+    "instructions": "A sample of oak has a density of 807 kilograms per cubic meter. The sample is in the shape of a cube, where each edge has a length of 0.90 meters. To the nearest whole number, what is the mass, in kilograms, of this sample?",
+    "criteria": {
+      "A": "588",
+      "B": "726",
+      "C": "897",
+      "D": "1,107"
+    }
+  },
+  "math_m1_q23": {
+    "type": "choice",
+    "instructions": "For x > 0, the function f is defined as follows:\n\nf(x) equals 201% of x\n\nWhich of the following could describe this function?",
+    "criteria": {
+      "A": "Decreasing exponential",
+      "B": "Decreasing linear",
+      "C": "Increasing exponential",
+      "D": "Increasing linear"
+    }
+  },
+  "math_m1_q25": {
+    "type": "choice",
+    "instructions": "Which expression is equivalent to (y + 12)/(x − 8) + y(x − 8)/(x²y − 8xy) ?",
+    "criteria": {
+      "A": "(xy + y + 4)/(x³y − 16x²y + 64xy)",
+      "B": "(xy + 9y + 12)/(x²y − 8xy + x − 8)",
+      "C": "(xy² + 13xy − 8y)/(x²y − 8xy)",
+      "D": "(xy² + 13xy − 8y)/(x³y − 16x²y + 64xy)"
+    }
+  },
+  "math_m2_q01": {
+    "type": "choice",
+    "instructions": "Isabel grows potatoes in her garden. This year, she harvested 760 potatoes and saved 10% of them to plant next year. How many of the harvested potatoes did Isabel save to plant next year?",
+    "criteria": {
+      "A": "66",
+      "B": "76",
+      "C": "84",
+      "D": "86"
+    }
+  },
+  "math_m2_q03": {
+    "type": "choice",
+    "instructions": "What length, in [UNDERLINED]centimeters[/UNDERLINED], is equivalent to a length of 51 meters? (1 meter = 100 centimeters)",
+    "criteria": {
+      "A": "0.051",
+      "B": "0.51",
+      "C": "5,100",
+      "D": "51,000"
+    }
+  },
+  "math_m2_q04": {
+    "type": "choice",
+    "instructions": "A bus is traveling at a constant speed along a straight portion of road. The equation d = 30t gives the distance d, in feet from a road marker, that the bus will be t seconds after passing the marker. How many feet from the marker will the bus be 2 seconds after passing the marker?",
+    "criteria": {
+      "A": "30",
+      "B": "32",
+      "C": "60",
+      "D": "90"
+    }
+  },
+  "math_m2_q05": {
+    "type": "choice",
+    "instructions": "Which expression is equivalent to 20w − (4w + 3w) ?",
+    "criteria": {
+      "A": "10w",
+      "B": "13w",
+      "C": "19w",
+      "D": "21w"
+    }
+  },
+  "math_m2_q08": {
+    "type": "choice",
+    "instructions": "Which expression is equivalent to 9x² + 5x ?",
+    "criteria": {
+      "A": "x(9x + 5)",
+      "B": "5x(9x + 1)",
+      "C": "9x(x + 5)",
+      "D": "x²(9x + 5)"
+    }
+  },
+  "math_m2_q09": {
+    "type": "choice",
+    "instructions": "In triangle ABC , the measure of angle B is 52° and the measure of angle C is 17°. What is the measure of angle A ?",
+    "criteria": {
+      "A": "21°",
+      "B": "35°",
+      "C": "69°",
+      "D": "111°"
+    }
+  },
+  "math_m2_q10": {
+    "type": "choice",
+    "instructions": "x = 8\ny = x² + 8\n\nThe graphs of the equations in the given system of equations intersect at the point (x, y) in the xy-plane. What is the value of y ?",
+    "criteria": {
+      "A": "8",
+      "B": "24",
+      "C": "64",
+      "D": "72"
+    }
+  },
+  "math_m2_q12": {
+    "type": "choice",
+    "instructions": "The function f is defined by f(x) = 8√x. For what value of x does f(x) = 48 ?",
+    "criteria": {
+      "A": "6",
+      "B": "8",
+      "C": "36",
+      "D": "64"
+    }
+  },
+  "math_m2_q15": {
+    "type": "choice",
+    "instructions": "y = 3x\n2x + y = 12\n\nThe solution to the given system of equations is (x, y). What is the value of 5x ?",
+    "criteria": {
+      "A": "24",
+      "B": "15",
+      "C": "12",
+      "D": "5"
+    }
+  },
+  "math_m2_q16": {
+    "type": "choice",
+    "instructions": "A cube has an edge length of 41 inches. What is the volume, in cubic inches, of the cube?",
+    "criteria": {
+      "A": "164",
+      "B": "1,681",
+      "C": "10,086",
+      "D": "68,921"
+    }
+  },
+  "math_m2_q17": {
+    "type": "choice",
+    "instructions": "p(t) = 90,000(1.06)^t\n\nThe given function p models the population of Lowell t years after a census. Which of the following functions best models the population of Lowell m months after the census?",
+    "criteria": {
+      "A": "r(m) = (90,000/12)(1.06)^m",
+      "B": "r(m) = 90,000(1.06/12)^m",
+      "C": "r(m) = 90,000(1.06/12)^(m/12)",
+      "D": "r(m) = 90,000(1.06)^(m/12)"
+    }
+  },
+  "math_m2_q18": {
+    "type": "choice",
+    "instructions": "6x + 7y = 28\n2x + 2y = 10\n\nThe solution to the given system of equations is (x, y). What is the value of y ?",
+    "criteria": {
+      "A": "−2",
+      "B": "7",
+      "C": "14",
+      "D": "18"
+    }
+  },
+  "math_m2_q19": {
+    "type": "choice",
+    "instructions": "The minimum value of x is 12 less than 6 times another number n. Which inequality shows the possible values of x ?",
+    "criteria": {
+      "A": "x ≤ 6n − 12",
+      "B": "x ≥ 6n − 12",
+      "C": "x ≤ 12 − 6n",
+      "D": "x ≥ 12 − 6n"
+    }
+  },
+  "math_m2_q22": {
+    "type": "choice",
+    "instructions": "Two variables, x and y, are related such that for each increase of 1 in the value of x, the value of y increases by a factor of 4. When x = 0, y = 200. Which equation represents this relationship?",
+    "criteria": {
+      "A": "y = 4(x)^200",
+      "B": "y = 4(200)^x",
+      "C": "y = 200(x)^4",
+      "D": "y = 200(4)^x"
+    }
+  },
+  "math_m2_q23": {
+    "type": "choice",
+    "instructions": "x² − 2x − 9 = 0\n\nOne solution to the given equation can be written as 1 + √k, where k is a constant. What is the value of k ?",
+    "criteria": {
+      "A": "8",
+      "B": "10",
+      "C": "20",
+      "D": "40"
+    }
+  },
+  "math_m2_q25": {
+    "type": "choice",
+    "instructions": "An isosceles right triangle has a perimeter of 94 + 94√2 inches. What is the length, in inches, of one leg of this triangle?",
+    "criteria": {
+      "A": "47",
+      "B": "47√2",
+      "C": "94",
+      "D": "94√2"
+    }
+  },
+  "math_m2_q26": {
+    "type": "choice",
+    "instructions": "−9x² + 30x + c = 0\n\nIn the given equation, c is a constant. The equation has exactly one solution. What is the value of c ?",
+    "criteria": {
+      "A": "3",
+      "B": "0",
+      "C": "−25",
+      "D": "−53"
+    }
+  }
+}

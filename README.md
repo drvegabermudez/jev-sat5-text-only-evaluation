@@ -4,13 +4,17 @@ Official SAT practice tests prepared as TypeSafe Choice questions, with original
 
 | Test | Questions | Status | Files |
 |---|---:|---|---|
+| SAT Practice Test 1 | 97 | Ready for Jev | [Test overview](test-1/README.md) · [Questions](test-1/questions.json) · [State](test-1/state.json) |
+| SAT Practice Test 2 | 93 | Ready for Jev | [Test overview](test-2/README.md) · [Questions](test-2/questions.json) · [State](test-2/state.json) |
+| SAT Practice Test 3 | 94 | Ready for Jev | [Test overview](test-3/README.md) · [Questions](test-3/questions.json) · [State](test-3/state.json) |
+| SAT Practice Test 4 | 92 | Ready for Jev | [Test overview](test-4/README.md) · [Questions](test-4/questions.json) · [State](test-4/state.json) |
 | SAT Practice Test 5 | 91 | Jev 1.13.0: **81/91 (89.0%)** | [Test overview](test-5/README.md) · [Results](test-5/RESULTS.md) · [Model card](test-5/MODEL_CARD.md) |
 | SAT Practice Test 6 | 88 | Jev 1.13.0: **81/88 (92.0%)** | [Test overview](test-6/README.md) · [Results](test-6/RESULTS.md) · [Model card](test-6/MODEL_CARD.md) |
 | SAT Practice Test 7 | 92 | Jev 1.13.0: **84/92 (91.3%)** | [Test overview](test-7/README.md) · [Results](test-7/RESULTS.md) · [Model card](test-7/MODEL_CARD.md) |
 
 For each run, send the test’s `questions.json` and `state.json` to Jev. The `answer_key.json` contains the correct answers for grading; `responses.json`, when present, contains the model’s actual output. Keep answer keys out of model inputs.
 
-Each test documents its source and omissions. The selected question sets have no exact duplicates across Tests 5, 6, and 7. Question IDs are local to their test folders.
+Each test documents its source and omissions. The selected question sets have no exact duplicates across Tests 1–7 after normalizing whitespace, underlining markers, and equivalent notation. Similar math templates remain across tests. Question IDs are local to their test folders.
 
 ## Reported timing
 
@@ -32,6 +36,6 @@ python3 test-6/evaluate.py --check
 python3 test-7/evaluate.py --check
 ```
 
-Each test folder contains its model output, grading key, results, and model evaluation card. The evaluators for Tests 6 and 7 generate both reports directly from their respective input, answer-key, and response files.
+Completed test folders contain the model output, grading key, results, and model evaluation card. Tests 1–4 contain prepared inputs and grading references, with results pending. The evaluators for Tests 6 and 7 generate both reports directly from their respective input, answer-key, and response files.
 
 SAT content is owned by College Board and the respective passage rights holders. These independent evaluations are not affiliated with or endorsed by College Board or TypeSafe. Scores are raw subset accuracy, not official SAT scaled scores.
