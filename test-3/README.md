@@ -1,6 +1,6 @@
 # SAT Practice Test 3: Jev evaluation
 
-**Ready to run:** 94 original multiple-choice questions, comprising **62 Reading and Writing** and **32 Math** questions. Jev has not yet been evaluated on this prepared set.
+**Jev 1.13.0 scored 84/94 (89.4%)** on the selected questions: **54/62 Reading and Writing** and **30/32 Math**. See the [results](RESULTS.md) and [model evaluation card](MODEL_CARD.md).
 
 ## Send to Jev
 
@@ -11,9 +11,15 @@ Use [questions.json](questions.json) as the TypeSafe Choice question map and [st
 | [questions.json](questions.json) | Model input: 94 Choice questions with original A–D options |
 | [state.json](state.json) | Model input: shared instructions and notation conventions |
 | [answer_key.json](answer_key.json) | Grading reference: official answer letter, answer text, and source PDF page |
+| [responses.json](responses.json) | Original Jev response export, preserved byte-for-byte |
+| [RESULTS.md](RESULTS.md) | Scores, incorrect answers, explanations, and timing |
+| [MODEL_CARD.md](MODEL_CARD.md) | Evaluation method, scope, and limitations |
+| [evaluate.py](evaluate.py) | Reproduce the grade and validate both reports |
 | README.md | Sources, selection, omissions, and file identification |
 
-Keep the answer key out of model inputs. The model’s response export, results, and model evaluation card will be added after the run.
+Keep the answer key out of model inputs. Reported server time is **183 ms** and the user-reported network round trip is **57 ms**, for a calculated combined time of **approximately 240 ms**. This sum is not a separate end-to-end measurement.
+
+Run `python3 test-3/evaluate.py --check` from the repository root to reproduce the results.
 
 ## Source and selection
 
@@ -98,4 +104,4 @@ Source PDF hashes identify the exact downloaded documents; the PDFs are linked a
 
 SAT content is © College Board; underlying passages belong to their respective rights holders. This independent evaluation is not affiliated with or endorsed by College Board or TypeSafe and does not grant an open-content license to the source material.
 
-After the run, report raw accuracy on this selected subset, with section and module breakdowns. This subset does not produce an official SAT scaled score.
+Results report raw accuracy on this selected subset, with section and module breakdowns. This subset does not produce an official SAT scaled score.
