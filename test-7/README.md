@@ -1,18 +1,24 @@
-# SAT Practice Test 7: ready for Jev
+# SAT Practice Test 7: Jev evaluation
 
-**92 original multiple-choice questions:** 61 Reading and Writing and 31 Math. No model responses have been recorded yet.
+**Jev 1.13.0 scored 84/92 (91.3%)** on 92 original multiple-choice questions: **57/61 in Reading and Writing** and **27/31 in Math**. See the [results and eight incorrect answers](RESULTS.md) and [model evaluation card](MODEL_CARD.md).
+
+Reported timing: **213 ms server time + 181 ms network round trip ≈ 394 ms combined**. The combined value is a calculated sum.
 
 ## Send to Jev
 
 Use [questions.json](questions.json) as the Choice question map and [state.json](state.json) as the shared state. Send only those two files to the model.
 
-[answer_key.json](answer_key.json) is for grading after the response arrives. It contains the official answer letter, answer text, and source PDF page for every included question.
+[answer_key.json](answer_key.json) contains the official answer letter, answer text, and source PDF page for every included question. [responses.json](responses.json) preserves the supplied Jev output byte-for-byte. All 92 expected answers are present and pass format, probability, and confidence checks.
 
 | File | Purpose |
 |---|---|
 | [questions.json](questions.json) | Model input: 92 Choice questions with original A–D options |
 | [state.json](state.json) | Model input: shared instructions and notation conventions |
 | [answer_key.json](answer_key.json) | Grading reference; not a model input |
+| [responses.json](responses.json) | Unmodified Jev response export |
+| [RESULTS.md](RESULTS.md) | Scores, incorrect answers, explanations, timing, and artifact hashes |
+| [MODEL_CARD.md](MODEL_CARD.md) | Evaluation method, performance, and limitations |
+| [evaluate.py](evaluate.py) | Validate the artifacts and reproduce both reports |
 | README.md | Sources, selection, omissions, and overlap check |
 
 ## Source and selection
@@ -94,4 +100,14 @@ SHA-256 hashes identify the exact prepared inputs and grading key.
 
 SAT content is © 2025 College Board; underlying passages belong to their respective rights holders. This independent evaluation is not affiliated with or endorsed by College Board or TypeSafe and does not grant an open-content license to the source material.
 
-After Jev returns its answers, report raw accuracy on these 92 questions and section/module breakdowns. This selected subset does not produce an official SAT scaled score.
+The reported score is raw accuracy on these 92 questions, with section and module breakdowns. This selected subset does not produce an official SAT scaled score.
+
+## Reproduce results
+
+From the repository root, run:
+
+```bash
+python3 test-7/evaluate.py --check
+```
+
+This verifies artifact hashes, all 92 responses, and the two published reports. Python 3.9 or newer is sufficient; no external packages or model calls are required.
