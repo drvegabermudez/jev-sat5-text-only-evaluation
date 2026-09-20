@@ -1,6 +1,6 @@
-# SAT Practice Test 9: ready for Jev
+# SAT Practice Test 9: Jev evaluation
 
-**93 original text-only multiple-choice questions** are ready to run: **61 Reading and Writing** and **32 Math**. No Jev response has been recorded for this test yet.
+**Jev 1.13.0 scored 82/93 (88.2%)** on the selected questions: **53/61 Reading and Writing** and **29/32 Math**. See the [results](RESULTS.md) and [model evaluation card](MODEL_CARD.md).
 
 ## Send to Jev
 
@@ -11,9 +11,15 @@ Use [questions.json](questions.json) as the TypeSafe Choice question map and [st
 | [questions.json](questions.json) | Model input: 93 Choice questions with original A–D options |
 | [state.json](state.json) | Model input: shared instructions and notation conventions |
 | [answer_key.json](answer_key.json) | Grading reference: official answer letter, answer text, and source PDF page |
+| [responses.json](responses.json) | Original Jev response export, preserved byte-for-byte |
+| [RESULTS.md](RESULTS.md) | Scores, incorrect answers, explanations, overlap cohorts, and timing |
+| [MODEL_CARD.md](MODEL_CARD.md) | Evaluation method, scope, and limitations |
+| [evaluate.py](evaluate.py) | Reproduce the grade and validate both reports |
 | README.md | Sources, selection, omissions, overlap, and file identification |
 
-Keep the answer key out of model inputs. The model’s response export, results, timing, and model evaluation card can be added after the run.
+Keep the answer key out of model inputs. Reported server time is **206 ms** and the user-reported network round trip is **100 ms**, for a calculated combined time of **approximately 306 ms**. This sum is not a separate end-to-end measurement.
+
+Run `python3 test-9/evaluate.py --check` from the repository root to reproduce the results.
 
 ## Source and selection
 
@@ -139,4 +145,4 @@ Source PDF hashes identify the exact downloaded documents; the PDFs are linked a
 
 SAT content is © College Board; underlying passages belong to their respective rights holders. This independent evaluation is not affiliated with or endorsed by College Board or TypeSafe and does not grant an open-content license to the source material.
 
-Results will report raw accuracy on this selected subset, with section and module breakdowns. This subset does not produce an official SAT scaled score.
+Results report raw accuracy on this selected subset, with section and module breakdowns. This subset does not produce an official SAT scaled score.
